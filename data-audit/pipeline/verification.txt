@@ -1,0 +1,41 @@
+    tas: 13,147,300 masked cell-days excluded
+    pr: 13,147,300 masked cell-days excluded
+grid (12, 200, 304), lat -11.88..37.88, lon 66.12..141.88
+T range nan..nan C     R range nan..nan mm/day
+suitable months: mean 2.87, min 0, max 12
+
+On UDel land cells (n=21,828):
+  NEX-GDDP mean suitable months  6.59
+  UDel     mean suitable months  6.36
+  mean difference                +0.24
+  median |difference|            0.00
+  agreement within 1 month       81.4%
+  agreement within 2 months      90.4%
+
+Note: NEX-GDDP is a single year (2000); UDel is a 1981-2010 mean, so
+some disagreement is expected from interannual variability alone.
+wrote pipeline_hist.npz
+    tas: 13,147,300 masked cell-days excluded
+    pr: 13,147,300 masked cell-days excluded
+  historical 2000: T -22.5..36.8 C, R 0.00..40.91 mm/day
+    tas: 13,147,300 masked cell-days excluded
+    pr: 13,147,300 masked cell-days excluded
+  ssp585 2090: T -19.6..42.5 C, R 0.00..61.93 mm/day
+  flipped fields to north-up for aggregation
+
+country        hist 2000  ssp585 2090   change
+----------------------------------------------
+Singapore          12.00        12.00     0.00
+Malaysia           11.30        11.87     0.57
+Indonesia          11.03        11.29     0.26
+Thailand           11.83        11.48    -0.35
+Philippines        10.33        11.23     0.90
+Vietnam            10.35        10.65     0.30
+India              10.12         8.77    -1.35
+Bangladesh         11.55         8.91    -2.63
+Cambodia           11.76        11.29    -0.47
+Sri Lanka          11.08        11.61     0.53
+
+wrote pipeline_test.json
+
+REMINDER: single years; pipeline verification only, not a result.

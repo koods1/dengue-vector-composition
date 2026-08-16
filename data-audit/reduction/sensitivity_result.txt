@@ -1,0 +1,39 @@
+C:\Users\koods\AppData\Local\Temp\dv\sensitivity.py:86: RuntimeWarning: Mean of empty slice
+  ens = np.nanmean([z[f'{m}__historical__tas'] - 273.15 for m in MODELS8],
+1. Leave-one-model-out: % of albopictus members projecting decline
+
+country         all 8 ACCESS-ES   CanESM5 GFDL-ESM4 INM-CM4-8    MIROC6 MPI-ESM1- NorESM2-M UKESM1-0-
+-----------------------------------------------------------------------------------------------------
+Malaysia           48        45        45        50        50        50        50        50        43
+Indonesia          56        55        55        57        60        60        57        55        52
+Thailand           98        98        98        98        98        98        98       100        98
+Philippines        50        48        48        52        52        52        52        50        45
+Vietnam            75        74        74        74        79        79        76        74        71
+India              88        86        86        86        90        86        93        88        86
+Bangladesh         83        83        81        86        86        81        86        83        81
+Cambodia           98        98        98        98       100        98        98        98        98
+Sri Lanka          73        71        71        74        76        74        74        74        69
+Singapore          54        52        52        55        57        57        57        52        50
+
+Largest shift from dropping any single model: 5 percentage points.
+Mainland range 73-98%, maritime 48-56%, full ensemble.
+Mainland minimum minus maritime maximum, dropping each model in turn: +14 to +19 percentage points.
+The split survives removal of any single model.
+
+
+2. Warming between the 1981-2010 observed climatology and the
+   2005-2014 ensemble historical window, by country
+
+country        UDel 1981-2010  ens 2005-2014   warming
+------------------------------------------------------
+Malaysia               25.29          26.26     +0.98
+Indonesia              25.36          26.50     +1.14
+Thailand               26.22          27.26     +1.04
+Philippines            25.28          25.61     +0.33
+Vietnam                23.29          25.17     +1.89
+India                  24.19          24.51     +0.32
+Bangladesh             25.39          25.85     +0.46
+Cambodia               27.12          28.20     +1.08
+Sri Lanka              27.14          27.17     +0.03
+
+Range +0.03 to +1.89 C; mean +0.81 C.

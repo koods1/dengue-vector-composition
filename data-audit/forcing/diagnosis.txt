@@ -1,0 +1,18 @@
+station-months analysed: 2636
+
+  suitable under BOTH conventions              2422  (91.9%)
+  unsuitable under BOTH                          64  (2.4%)
+  monthly says suitable, daily majority not       0  (0.0%)  <- disagreement
+  monthly says unsuitable, daily majority is    150  (5.7%)  <- the monsoon case
+
+The two disagreements do not cancel: 0 vs 150.
+
+Daily rainfall distribution across all station-days (n=77,684):
+  p50      0.0 mm/day
+  p75      5.3 mm/day
+  p90     22.4 mm/day
+  p95     38.1 mm/day
+  p99     83.1 mm/day
+  mean    7.2 mm/day
+  share of days above the ~18.6 mm/day washout ceiling: 11.9%
+  share of days with zero rain: 53.9%

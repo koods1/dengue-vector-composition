@@ -1,0 +1,32 @@
+Suitable months per year: monthly-mean rainfall forcing vs daily rainfall
+(temperature held at the monthly mean in both, to isolate the rainfall effect)
+
+country      station                  months  monthly   daily   diff
+--------------------------------------------------------------------
+Bangladesh   BARISAL                      98    11.14   10.40  -0.74
+Bangladesh   COXS BAZAR                   91     9.63   10.14  +0.51
+Bangladesh   SHAH AMANAT INTL            181     9.81   10.48  +0.67
+Malaysia     MALACCA                     209    12.00   10.63  -1.37
+Malaysia     SULTAN ABDUL AZIZ SHAH      193    11.56   10.03  -1.53
+Malaysia     PENANG INTL                 204    11.88   10.61  -1.27
+Singapore    SINGAPORE CHANGI INTL       217    11.83   10.66  -1.17
+Sri Lanka    CHINA BAY                   161    11.11   10.98  -0.12
+Sri Lanka    HAMBANTOTA                  170    11.93   11.35  -0.58
+Sri Lanka    COLOMBO                     166    11.28   10.53  -0.75
+Thailand     UDON THANI                   67    11.46   10.03  -1.43
+Thailand     SONGKHLA                     77     9.19    9.44  +0.24
+Thailand     DON MUANG                    73    11.84   10.15  -1.69
+Vietnam      PHAN THIET                  234    12.00   11.35  -0.65
+Vietnam      CA MAU                      236    11.69   10.51  -1.19
+Vietnam      PHU QUOC                    137     9.81    9.61  -0.20
+--------------------------------------------------------------------
+MEAN                                            11.14   10.43  -0.70
+
+By country (station mean):
+country        monthly   daily   diff
+Bangladesh       10.19   10.34  +0.15
+Malaysia         11.82   10.42  -1.39
+Singapore        11.83   10.66  -1.17
+Sri Lanka        11.44   10.96  -0.48
+Thailand         10.83    9.87  -0.96
+Vietnam          11.17   10.49  -0.68

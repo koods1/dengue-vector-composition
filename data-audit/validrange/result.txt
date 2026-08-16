@@ -1,0 +1,41 @@
+
+===== FULL published band (2.5th - 97.5th) =====
+country      niche spread  warming spread   ratio     signs     verdict
+--------------------------------------------------------------------------
+Malaysia             4.73            1.73     2.7       -++    REVERSES
+Indonesia            2.62            0.98     2.7       -++    REVERSES
+Thailand             1.98            1.66     1.2       --0   ambiguous
+Philippines          3.59            1.05     3.4       -++    REVERSES
+Vietnam              4.81            2.57     1.9       +++  consistent
+India                4.00            2.12     1.9       ---  consistent
+Bangladesh           4.38            4.53     1.0       ---  consistent
+Cambodia             1.34            2.15     0.6       --0   ambiguous
+Sri Lanka            1.75            1.65     1.1       --+    REVERSES
+--------------------------------------------------------------------------
+  median ratio 1.87   niche spread exceeds warming spread in 7 of 9 countries
+  consistent 3   ambiguous 2   reverses 4
+
+===== VALIDATED range only (median - 97.5th) =====
+country      niche spread  warming spread   ratio     signs     verdict
+--------------------------------------------------------------------------
+Malaysia             1.25            1.73     0.7        ++  consistent
+Indonesia            0.58            0.98     0.6        ++  consistent
+Thailand             0.22            1.66     0.1        -0   ambiguous
+Philippines          0.67            1.05     0.6        ++  consistent
+Vietnam              1.73            2.57     0.7        ++  consistent
+India                0.98            2.12     0.5        --  consistent
+Bangladesh           0.53            4.53     0.1        --  consistent
+Cambodia             0.39            2.15     0.2        -0   ambiguous
+Sri Lanka            0.25            1.65     0.2        -+    REVERSES
+--------------------------------------------------------------------------
+  median ratio 0.46   niche spread exceeds warming spread in 0 of 9 countries
+  consistent 6   ambiguous 2   reverses 1
+
+===== what changes =====
+  median ratio            1.87  ->  0.46
+  countries reversing     4  ->  1
+  countries consistent    3  ->  6
+
+The sign-reversal claim was carried almost entirely by the refuted
+2.5th-percentile variant. Over the validated range the direction of
+change is largely consistent, and the ratio is much smaller.

@@ -1,0 +1,35 @@
+country,indicator,code,status,evidence,source_type,notes
+Singapore,legal_instrument,dengue-specific,provisional,"Infectious Diseases Act; Control of Vectors and Pesticides Act; Environmental Public Health Act",statute,"Act names publicly verifiable; confirm dengue is named or scheduled"
+Malaysia,legal_instrument,dengue-specific,provisional,"Prevention and Control of Infectious Diseases Act 1988 (Act 342); Destruction of Disease-Bearing Insects Act 1975 (Act 154)",statute,"Act 154 is vector-specific"
+Thailand,legal_instrument,general-communicable,provisional,"Communicable Diseases Act B.E. 2558 (2015)",statute,"Confirm dengue scheduling"
+Philippines,legal_instrument,general-communicable,provisional,"Republic Act No. 11332 (Mandatory Reporting of Notifiable Diseases)",statute,"Confirm dengue listed"
+Viet Nam,legal_instrument,general-communicable,provisional,"Law on Prevention and Control of Infectious Diseases (2007)",statute,"Confirm dengue group classification"
+India,legal_instrument,mixed-national-state,provisional,"Epidemic Diseases Act 1897; state acts e.g. Karnataka Epidemic Diseases Act 2020",statute,"Notifiability varies by state - code carefully, this is not uniform nationally"
+Indonesia,legal_instrument,ministerial-decree,unresolved,"Ministerial regulation/decree reported; instrument not identified",unverified,"Needs Kemenkes regulation number"
+Bangladesh,legal_instrument,general-communicable,unresolved,"Communicable Diseases (Prevention Control and Elimination) Act 2018 exists; dengue-specific instrument not identified",unverified,"Verify whether dengue is scheduled"
+Cambodia,legal_instrument,none-identified,unresolved,"No dengue-specific instrument identified in public search",unverified,"Verify with CNM"
+Sri Lanka,legal_instrument,general-quarantine,unresolved,"Quarantine and Prevention of Diseases Ordinance reported; no dengue-specific act identified",unverified,"Dengue is demonstrably notified weekly - absence of a dengue-specific act does not mean not notifiable"
+Singapore,vaccine_licensed,no,verified,"Takeda withdrew Qdenga application after HSA review (submitted 2022, withdrawn 2023); Dengvaxia licensed but being discontinued globally",regulatory,"Absence reflects regulatory judgement not capacity - see Methods note"
+Malaysia,vaccine_licensed,yes,verified,"TAK-003 (Qdenga) authorised",regulatory/manufacturer,"Named in Takeda approval lists"
+Indonesia,vaccine_licensed,yes,verified,"TAK-003 approved August 2022 - first country worldwide",regulatory/manufacturer,
+Thailand,vaccine_licensed,yes,verified,"TAK-003 authorised",regulatory/manufacturer,
+Philippines,vaccine_licensed,no,verified,"No dengue vaccine approved as of Feb 2025; Dengvaxia CPR permanently revoked Dec 2018",regulatory,"Strong policy signal - post-Dengvaxia"
+Viet Nam,vaccine_licensed,yes,verified,"TAK-003 authorised",regulatory/manufacturer,
+India,vaccine_licensed,yes,verified,"CDSCO/DCGI marketing authorisation for Qdenga ages 4-60",regulatory,"Recent - record approval date"
+Bangladesh,vaccine_licensed,no,provisional,"Dengvaxia not approved; no evidence of TAK-003 approval",unverified,"Confirm with DGDA"
+Cambodia,vaccine_licensed,unresolved,unresolved,"Not confirmed",unverified,
+Sri Lanka,vaccine_licensed,unresolved,unresolved,"Participated in TAK-003 trials; approval not confirmed",unverified,
+Singapore,vaccine_public_sector,no,provisional,"No dengue vaccine in national immunisation schedule identified",unverified,
+Malaysia,vaccine_public_sector,unresolved,unresolved,,unverified,
+Indonesia,vaccine_public_sector,subnational-only,provisional,"Local government programmes reported; not national",unverified,"Verify scale"
+Thailand,vaccine_public_sector,unresolved,unresolved,,unverified,
+Philippines,vaccine_public_sector,no,verified,"No licensed product",regulatory,
+Viet Nam,vaccine_public_sector,unresolved,unresolved,,unverified,
+India,vaccine_public_sector,no,provisional,"Licensed but not in NIP",unverified,
+Bangladesh,vaccine_public_sector,unresolved,unresolved,,unverified,
+Cambodia,vaccine_public_sector,unresolved,unresolved,,unverified,
+Sri Lanka,vaccine_public_sector,unresolved,unresolved,,unverified,
+ALL,national_plan_currency,unresolved,unresolved,"Not codeable from public search in this pass",unverified,"Requires retrieval of each national dengue strategic plan with year of issue"
+ALL,clinical_guideline_alignment,unresolved,unresolved,"Not codeable from public search in this pass",unverified,"Requires each national dengue clinical management guideline; check alignment to WHO 2009 severity classification and year"
+ALL,dedicated_budget_line,unresolved,unresolved,"Not codeable from public search in this pass",unverified,"Requires national budget documents; may be unobtainable for several countries"
+ALL,entomological_programme,unresolved,unresolved,"Not codeable from public search in this pass",unverified,"Requires national vector surveillance documentation; WHO GVCR country reporting may help"

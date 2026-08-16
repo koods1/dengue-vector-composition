@@ -1,0 +1,82 @@
+country           rows  adm1   adm2         yrs   adm1 yrs (recent)  best_S  best_T
+------------------------------------------------------------------------------------------------------------
+SINGAPORE        1,459     1      0   1960-2025     2010-2010 (n=1)  Admin1  Week
+MALAYSIA         2,782    17      0   1963-2024    2010-2023 (n=10)  Admin1  Week
+INDONESIA        8,178    50      0   1968-2024    2010-2024 (n=15)  Admin1  Month
+THAILAND        27,103    78      0   1958-2025    2010-2022 (n=13)  Admin1  Month
+PHILIPPINES      9,897    34     65   1955-2023    2010-2021 (n=11)  Admin2  Week
+VIET NAM        12,687    64      0   1960-2025     2010-2010 (n=1)  Admin1  Week
+INDIA              692    44      0   1991-2025    2010-2024 (n=13)  Admin1  Month
+BANGLADESH         234     0      0   1980-2025                NONE  Admin0  Month
+CAMBODIA         4,424    24      0   1980-2024     2010-2010 (n=1)  Admin1  Week
+SRI LANKA        1,727     9      0   1965-2024                NONE  Admin1  Week
+
+S_res / T_res detail:
+  SINGAPORE    S={'Admin0': 1243, 'Admin1': 216}
+               T={'Year': 58, 'Month': 231, 'Week': 1170}
+  MALAYSIA     S={'Admin0': 674, 'Admin1': 2108}
+               T={'Year': 202, 'Month': 1956, 'Week': 624}
+  INDONESIA    S={'Admin0': 40, 'Admin1': 8138}
+               T={'Year': 711, 'Month': 7467}
+  THAILAND     S={'Admin0': 79, 'Admin1': 27024}
+               T={'Year': 52, 'Month': 27051}
+  PHILIPPINES  S={'Admin0': 613, 'Admin2': 9060, 'Admin1': 224}
+               T={'Year': 269, 'Month': 9084, 'Week': 544}
+  VIET NAM     S={'Admin0': 414, 'Admin1': 12273}
+               T={'Year': 54, 'Month': 12348, 'Week': 285}
+  INDIA        S={'Admin0': 20, 'Admin1': 672}
+               T={'Year': 680, 'Month': 12}
+  BANGLADESH   S={'Admin0': 234}
+               T={'Year': 27, 'Month': 207}
+  CAMBODIA     S={'Admin0': 744, 'Admin1': 3680}
+               T={'Year': 39, 'Month': 3692, 'Week': 693}
+  SRI LANKA    S={'Admin0': 767, 'Admin1': 960}
+               T={'Year': 34, 'Month': 1052, 'Week': 641}
+
+Subnational (Admin1/Admin2) availability by year, OpenDengue V1.3
+
+SINGAPORE
+   subnational years : 1993-2010
+   >=2015            : NONE
+
+MALAYSIA
+   subnational years : 1993-2018,2023
+   >=2015            : 2015-2018,2023
+   temporal res >=2015: ['Year']
+
+INDONESIA
+   subnational years : 2000-2024
+   >=2015            : 2015-2024
+   temporal res >=2015: ['Month', 'Year']
+
+THAILAND
+   subnational years : 1993-2022
+   >=2015            : 2015-2022
+   temporal res >=2015: ['Month']
+
+PHILIPPINES
+   subnational years : 1994-2018,2020-2021
+   >=2015            : 2015-2018,2020-2021
+   temporal res >=2015: ['Year']
+
+VIET NAM
+   subnational years : 1994-2010
+   >=2015            : NONE
+
+INDIA
+   subnational years : 1997-2012,2015-2024
+   >=2015            : 2015-2024
+   temporal res >=2015: ['Year']
+
+BANGLADESH
+   subnational years : NONE
+   >=2015            : NONE
+
+CAMBODIA
+   subnational years : 1998-2010
+   >=2015            : NONE
+
+SRI LANKA
+   subnational years : 1996-2004
+   >=2015            : NONE
+

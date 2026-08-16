@@ -1,0 +1,21 @@
+# Derived from the imports actually used by the analysis scripts.
+#
+# Lower bounds, not pins: these are the versions the analysis was run under
+# in August 2026. Pin exactly (== rather than >=) if you need a bit-for-bit
+# rerun.
+#
+# geopandas and rasterio pull compiled GDAL/GEOS/PROJ stacks. On Windows a
+# conda environment is materially less painful; see README.md.
+
+numpy>=1.26
+scipy>=1.11
+netCDF4>=1.6          # reading NEX-GDDP and UDel NetCDF fields
+matplotlib>=3.8       # figures
+geopandas>=0.14       # country boundaries, zonal aggregation
+shapely>=2.0          # geometry, via geopandas
+rasterio>=1.3         # gridded population rasters
+h5py>=3.10            # MATLAB v7.3 parameter files from the Kaye source
+sympy>=1.12           # symbolic verification of the persistence condition
+
+# Standard library, listed only so the dependency surface is legible:
+# sys, os, io, re, csv, json, xml, urllib, collections, multiprocessing

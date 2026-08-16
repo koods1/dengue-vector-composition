@@ -1,0 +1,33 @@
+1680 country x niche x model x scenario paths
+
+=== Ae. albopictus: % of 16 ensemble members already 1 month below historical ===
+country                 ssp126            ssp245            ssp585
+              by50  by90 never  by50  by90 never  by50  by90 never
+------------------------------------------------------------------
+Malaysia         0     6    94     6    25    75    19    62    38
+Indonesia       12    19    81    25    50    50    44    69    31
+Thailand        44    44    56    69    81    19    81   100     0
+Philippines      0     6    94     6    31    69    19    62    38
+Vietnam         19    25    75    38    62    38    50    94     6
+India            0     6    94     6    38    62    25   100     0
+Bangladesh      44    44    56    44    69    31    56   100     0
+Cambodia        50    50    50    81    88    12    88   100     0
+Sri Lanka       25    25    75    38    56    44    50   100     0
+Singapore       19    19    81    38    50    50    44    69    31
+
+=== Ae. aegypti: % of 40 ensemble members already 1 month below historical ===
+country                 ssp126            ssp245            ssp585
+              by50  by90 never  by50  by90 never  by50  by90 never
+------------------------------------------------------------------
+Malaysia         0     0   100     0     0   100     0     2    98
+Indonesia        0     0   100     0     0   100     0     5    95
+Thailand         0     0   100     0     2    98     0    40    60
+Philippines      0     0   100     0     0   100     0     0   100
+Vietnam          0     0   100     0     0   100     0    12    88
+India            0     0   100     0     8    92     0    32    68
+Bangladesh       2     2    98     2     8    92     5    35    65
+Cambodia         0     0   100     0     5    95     0    40    60
+Sri Lanka        0     0   100     0     0   100     0     8    92
+Singapore        0     0   100     0     0   100     0     0   100
+
+wrote crossing.json

@@ -1,0 +1,14 @@
+8 models x 3 scenarios, median Kaye niche
+
+Cell-months suitable in 2005-2014 and unsuitable by 2086-2095,
+attributed to the bound they violate (summed over 8 models):
+
+scenario        lost     too hot     washout   too cold   too dry   other
+-------------------------------------------------------------------------
+ssp126        32,269       68.5%       11.0%      20.5%      0.0%    0.0%
+ssp245        66,439       86.3%        9.4%       4.2%      0.0%    0.0%
+ssp585       207,348       91.1%        8.4%       0.4%      0.0%    0.0%
+
+Interpretation. The Methods state that in monsoon Asia washout is
+likely the more common contraction mechanism. This tests that claim
+directly for the study region under the CMIP6 ensemble.

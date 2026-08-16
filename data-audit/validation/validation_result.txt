@@ -1,0 +1,14 @@
+occurrence records in region: 11600; on land grid: 10969
+background land cells sampled: 20000 from 5457 unique cells
+
+niche         sens(>=1mo)  mean mo occ  mean mo bg    AUC
+----------------------------------------------------------
+2.5th pct           95.2%         7.13        4.38  0.706
+median              99.7%        10.73        6.34  0.702
+97.5th pct          99.8%        11.75        7.21  0.780
+
+Where the median niche fails: occurrence points in cells with 0 suitable months
+  33 of 10969 points (0.3%)
+  latitude range  -7.5 to 27.1
+  longitude range 88.3 to 120.8
+  of these: 4 have a month above the washout ceiling, 19 a month below 17 C, 0 a month above 34 C

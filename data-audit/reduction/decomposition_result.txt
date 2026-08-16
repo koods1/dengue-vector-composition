@@ -1,0 +1,50 @@
+cells per country: Malaysia 430, Indonesia 2460, Thailand 696, Philippines 384, Vietnam 452, India 4467, Bangladesh 193, Cambodia 237, Sri Lanka 85, Singapore 1
+
+1680 country x niche x model x scenario combinations
+
+Variance in projected CHANGE in suitable months, by source
+(share of total variance; historical 2005-2014 -> 2086-2095)
+
+--- Ae. aegypti ---
+country         niche    model  scenario   resid   sd(mo)  mean chg
+--------------------------------------------------------------------
+Malaysia         0.12     0.08      0.01    0.80     0.27      0.08
+Indonesia        0.01     0.13      0.02    0.84     0.36      0.07
+Thailand         0.05     0.24      0.25    0.46     1.15     -0.43
+Philippines      0.41     0.11      0.04    0.44     0.19      0.16
+Vietnam          0.12     0.28      0.07    0.53     0.73      0.28
+India            0.28     0.24      0.20    0.27     0.85     -0.30
+Bangladesh       0.44     0.09      0.06    0.40     1.52      0.05
+Cambodia         0.05     0.22      0.23    0.50     1.50     -0.58
+Sri Lanka        0.01     0.12      0.04    0.84     0.35     -0.01
+Singapore        0.03     0.06      0.02    0.89     0.09     -0.01
+
+--- Ae. albopictus ---
+country         niche    model  scenario   resid   sd(mo)  mean chg
+--------------------------------------------------------------------
+Malaysia         0.18     0.20      0.34    0.28     3.00     -1.84
+Indonesia        0.27     0.16      0.37    0.19     3.07     -2.35
+Thailand         0.10     0.22      0.60    0.08     2.62     -3.44
+Philippines      0.20     0.18      0.34    0.27     2.21     -1.38
+Vietnam          0.09     0.29      0.53    0.09     1.91     -1.96
+India            0.00     0.30      0.59    0.11     1.09     -1.27
+Bangladesh       0.24     0.24      0.41    0.12     2.37     -3.01
+Cambodia         0.12     0.24      0.55    0.10     3.02     -4.15
+Sri Lanka        0.22     0.17      0.50    0.11     2.65     -2.57
+Singapore        0.39     0.13      0.26    0.22     5.08     -4.33
+
+Directional agreement across all niche x model x scenario members
+country       aegypti: n  % decline  albopictus: n  % decline
+--------------------------------------------------------------
+Malaysia             120          2             48         48
+Indonesia            120          4             48         56
+Thailand             120         29             48         98
+Philippines          120          1             48         50
+Vietnam              120         10             48         75
+India                120         41             48         88
+Bangladesh           120         23             48         83
+Cambodia             120         28             48         98
+Sri Lanka            120          5             48         73
+Singapore            120          1             48         54
+
+wrote decomposition.json

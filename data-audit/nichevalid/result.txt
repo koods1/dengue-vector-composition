@@ -1,0 +1,22 @@
+Kraemer vector-occurrence locations : 29
+Liu dengue-outbreak locations       : 48
+
+=== Kaye et al. niche ===
+location set                    2.5th   median   97.5th
+-------------------------------------------------------
+Ae. aegypti occurrence          82.8%   100.0%   100.0%
+dengue outbreaks                58.3%    97.9%   100.0%
+
+Locations OUTSIDE the median niche:
+  occurrence: 0 of 29
+  outbreak: 1 of 48
+     Peshawar district, Pakistan            T= 18.7  R= 1.27
+
+=== Liu-Helmersson alternative parameterisation ===
+  grid 401 x 1001, variants available: ['median']
+  Ae. aegypti occurrence     inside: 100.0%
+  dengue outbreaks           inside: 100.0%
+
+  niche area, fraction of the T-R grid admitted:
+    Kaye median          0.1473
+    Liu-Helmersson       0.5748  (3.90x Kaye)

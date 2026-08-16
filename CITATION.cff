@@ -1,0 +1,68 @@
+cff-version: 1.2.0
+title: >-
+  Analysis code for "Shifting dengue vector composition under warming in
+  South and Southeast Asia"
+message: >-
+  If you use this software or the derived data, please cite both the paper
+  and this archived record. Cite the concept DOI, which always resolves to
+  the newest version.
+type: software
+authors:
+  - given-names: Archita
+    family-names: Ghosh
+    affiliation: >-
+      Department of Civil and Environmental Engineering, Northeastern
+      University
+    orcid: 'https://orcid.org/0009-0002-1303-4755'
+  - given-names: Mansoor
+    name-particle: M.
+    family-names: Amiji
+    affiliation: >-
+      Department of Pharmaceutical Sciences, Bouvé College of Health
+      Sciences, Northeastern University
+    orcid: 'https://orcid.org/0000-0001-6170-881X'
+  - given-names: Auroop
+    name-particle: R.
+    family-names: Ganguly
+    affiliation: >-
+      Department of Civil and Environmental Engineering, Northeastern
+      University
+    orcid: 'https://orcid.org/0000-0002-4292-4856'
+  - given-names: Ravi
+    family-names: Sundaram
+    affiliation: 'Khoury College of Computer Sciences, Northeastern University'
+    email: r.sundaram@northeastern.edu
+    orcid: 'https://orcid.org/0000-0001-5657-4298'
+license: MIT
+repository-code: 'https://github.com/koods1/dengue-vector-composition'
+# TODO: after publishing the Zenodo record, set this to the CONCEPT DOI
+#       (labelled "Cite all versions"), not the version DOI.
+# doi: 10.5281/zenodo.XXXXXXX
+preferred-citation:
+  type: article
+  title: >-
+    Shifting dengue vector composition under warming in South and Southeast
+    Asia: a change routine surveillance cannot detect
+  authors:
+    - given-names: Archita
+      family-names: Ghosh
+    - given-names: Mansoor
+      name-particle: M.
+      family-names: Amiji
+    - given-names: Auroop
+      name-particle: R.
+      family-names: Ganguly
+    - given-names: Ravi
+      family-names: Sundaram
+  journal: The Lancet Regional Health – Southeast Asia
+  year: 2026
+  # doi:      # TODO on acceptance
+keywords:
+  - dengue
+  - Aedes aegypti
+  - Aedes albopictus
+  - climate change
+  - ecological niche modelling
+  - vector composition
+  - entomological surveillance
+  - CMIP6

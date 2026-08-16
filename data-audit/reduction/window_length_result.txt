@@ -1,0 +1,39 @@
+C:\Users\koods\AppData\Local\Temp\dv\window_compare.py:74: RuntimeWarning: Mean of empty slice
+  T = np.nanmean([z[table[y]['tas']] for y in yrs], axis=0) - 273.15
+C:\Users\koods\AppData\Local\Temp\dv\window_compare.py:75: RuntimeWarning: Mean of empty slice
+  R = np.nanmean([z[table[y]['pr']] for y in yrs], axis=0) * 86400.0
+historical years 2005-2014, ssp585 2086-2095
+
+=== Ae. aegypti (Kaye median): change in suitable months, 2005-2014 to 2086-2095 ===
+country         first 5    last 5   full 10  half-spread
+--------------------------------------------------------------
+Malaysia           0.83      0.61      0.70         0.23
+Indonesia          0.56      0.53      0.56         0.02
+Thailand          -0.94     -0.87     -0.91         0.06
+Philippines        0.45      0.76      0.61         0.31
+Viet Nam           0.30      0.58      0.43         0.28
+India             -0.74     -0.94     -0.88         0.20
+Bangladesh        -1.38     -0.83     -1.11         0.56
+Cambodia          -0.78     -0.64     -0.66         0.15
+Sri Lanka          0.26      0.29      0.28         0.04
+Singapore          0.00      0.00      0.00         0.00
+--------------------------------------------------------------
+  spread between five-year halves: mean 0.18, max 0.56 months
+  deviation of a half from the decade: mean 0.11, max 0.29 months
+
+=== Ae. albopictus (Mordecai): change in suitable months, 2005-2014 to 2086-2095 ===
+country         first 5    last 5   full 10  half-spread
+--------------------------------------------------------------
+Malaysia          -0.11     -0.15     -0.11         0.04
+Indonesia         -0.42     -0.67     -0.52         0.26
+Thailand          -3.93     -4.09     -4.01         0.16
+Philippines       -0.17     -0.15     -0.15         0.02
+Viet Nam          -2.12     -2.09     -2.13         0.02
+India             -1.67     -1.90     -1.80         0.23
+Bangladesh        -2.53     -3.00     -2.65         0.47
+Cambodia          -4.37     -4.07     -4.10         0.29
+Sri Lanka         -1.56     -2.20     -1.86         0.64
+Singapore         -1.00      0.00      0.00         1.00
+--------------------------------------------------------------
+  spread between five-year halves: mean 0.31, max 1.00 months
+  deviation of a half from the decade: mean 0.24, max 1.00 months

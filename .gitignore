@@ -1,0 +1,30 @@
+# Derived climate reductions. ~149 MB together; they exceed what git should
+# carry and are published as files on the archived record instead. Set
+# DENGUE_DATA to the directory holding them. See README.md.
+ensemble_monthly.npz
+ensemble_monthly_mid.npz
+wlen_monthly.npz
+reduce_mid.ckpt
+
+# Third-party inputs, fetched not redistributed. Named individually rather
+# than globbed: a blanket *.npz would also exclude
+# data-audit/hazard/niche_python.npz, which is a small derived artefact that
+# IS tracked and is read by data-audit/forcing/daily_vs_monthly.py.
+*.nc
+*.tif
+ne10_adm1.geojson
+ne110.geojson
+inputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

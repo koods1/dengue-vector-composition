@@ -1,0 +1,19 @@
+declared nodata: 255.0 | dtype float32
+cells in window        54,720,000
+non-finite (NaN/inf)   0
+min 0   max 6.96e+04   sum 13,235.6 M
+negative values        0
+exactly 255.0          34,978,235
+in (254.5, 255.5)      34,990,868
+in (250, 260)          35,072,889
+
+population if 255.0 kept    13,235.57 M
+population if 255.0 zeroed  4,316.12 M
+difference                  8,919.4499 M (67.3900%)
+
+255.0 cells: 34,978,235. Sample neighbourhood sums (3x3, excl centre):
+   at row 0, col 6257: neighbours sum 0.00
+   at row 0, col 6338: neighbours sum 511.76
+   at row 0, col 6358: neighbours sum 510.00
+   at row 0, col 6359: neighbours sum 1020.00
+   at row 0, col 6360: neighbours sum 1275.00

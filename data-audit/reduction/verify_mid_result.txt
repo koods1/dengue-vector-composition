@@ -1,0 +1,23 @@
+1. grid identity with the verified historical reduction
+  PASS  lat axis identical  200 rows, -11.88..37.88
+  PASS  lon axis identical  304 cols, 66.12..141.88
+
+2. completeness
+  PASS  all 48 model x scenario x variable combinations  8 models x 3 scenarios x 2 vars = 48
+  PASS  same 8 models as historical reduction
+  PASS  three scenarios, no historical
+
+3. the land mask survived (this is what attempt 2 destroyed)
+  PASS  CanESM5 ssp245 tas NaN count ~432,240  got 432,240
+  PASS  no exact zeros in a temperature field  got 0
+  PASS  identical NaN footprint across all tas fields
+
+4. physical plausibility
+  PASS  CanESM5 ssp245 regional mean T in 15-30 C  20.82 C
+      historical 18.87 C  ->  mid 20.82 C  ->  end 21.98 C
+  PASS  mid-century warming falls between hist and end
+
+5. all fields, coarse ranges
+  PASS  no all-NaN fields  48/48 populated
+
+ALL CHECKS PASSED - safe to use

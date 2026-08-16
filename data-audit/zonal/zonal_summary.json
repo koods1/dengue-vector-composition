@@ -1,0 +1,82 @@
+{
+ "Singapore": {
+  "units": 5,
+  "median_km2": 95.59839046373743,
+  "min_km2": 27.51044755437157,
+  "below_one_cell": 5,
+  "no_data": 5,
+  "mean_months": null
+ },
+ "Malaysia": {
+  "units": 16,
+  "median_km2": 8430.050906408875,
+  "min_km2": 52.13986947213102,
+  "below_one_cell": 3,
+  "no_data": 1,
+  "mean_months": 11.227855017666972
+ },
+ "Indonesia": {
+  "units": 33,
+  "median_km2": 38632.53861479026,
+  "min_km2": 816.0321447213397,
+  "below_one_cell": 0,
+  "no_data": 0,
+  "mean_months": 10.263285032069465
+ },
+ "Thailand": {
+  "units": 77,
+  "median_km2": 5721.943305952823,
+  "min_km2": 414.8762108811636,
+  "below_one_cell": 3,
+  "no_data": 1,
+  "mean_months": 11.724477223959678
+ },
+ "Philippines": {
+  "units": 118,
+  "median_km2": 2048.941027623794,
+  "min_km2": 1.7020062918652026,
+  "below_one_cell": 41,
+  "no_data": 22,
+  "mean_months": 10.67644079866632
+ },
+ "Vietnam": {
+  "units": 63,
+  "median_km2": 4592.649260871612,
+  "min_km2": 723.1582038501191,
+  "below_one_cell": 1,
+  "no_data": 0,
+  "mean_months": 9.473468514343047
+ },
+ "India": {
+  "units": 36,
+  "median_km2": 54018.52218138613,
+  "min_km2": 34.11800868735896,
+  "below_one_cell": 4,
+  "no_data": 1,
+  "mean_months": 8.361691900226887
+ },
+ "Bangladesh": {
+  "units": 7,
+  "median_km2": 18843.934257901077,
+  "min_km2": 9104.099630314653,
+  "below_one_cell": 0,
+  "no_data": 0,
+  "mean_months": 10.996230383044074
+ },
+ "Cambodia": {
+  "units": 24,
+  "median_km2": 6472.574759756604,
+  "min_km2": 133.73516828967,
+  "below_one_cell": 2,
+  "no_data": 0,
+  "mean_months": 11.712362287085034
+ },
+ "Sri Lanka": {
+  "units": 25,
+  "median_km2": 2090.5095015714774,
+  "min_km2": 679.6571689223617,
+  "below_one_cell": 1,
+  "no_data": 0,
+  "mean_months": 11.435319549354222
+ }
+}

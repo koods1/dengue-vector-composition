@@ -1,0 +1,11 @@
+Baseline cell-months in the study region (UDel 1981-2010, median niche)
+  suitable                  34700
+  unsuitable                30784
+    too cold                24654  ( 80.1% of unsuitable)
+    too hot                   351  (  1.1% of unsuitable)
+    too wet (washout)        5779  ( 18.8% of unsuitable)
+    other/unclassified          0  (  0.0% of unsuitable)
+
+Wettest suitable and unsuitable months, to sanity-check the ceiling:
+  regional rainfall range 0.00 to 90.96 mm/day
+  niche washout ceiling   ~18.6 mm/day (max over temperature)

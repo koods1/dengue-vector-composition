@@ -1,0 +1,45 @@
+Consensus suitable months per year (mean over validated niches)
+and unanimous months (all niches agree)
+
+--- Ae. aegypti  (5 niches) ---
+country       +0 cons  +0 unan  +2 cons  +4 cons  threshold
+------------------------------------------------------------
+Malaysia        11.24     9.96    11.73    11.89     > +5 C
+Indonesia       11.08    10.29    11.44    11.68     > +5 C
+Thailand        11.79    11.20    11.94    11.83     > +5 C
+Philippines     11.40    10.51    11.70    11.89     > +5 C
+Vietnam          9.80     7.75    10.79    11.45     > +5 C
+India            9.85     8.30     9.98     9.36     5.00 C
+Bangladesh      11.19     9.09    11.67    11.51     > +5 C
+Cambodia        11.88    11.48    11.98    11.79     > +5 C
+Sri Lanka       11.71    11.40    11.95    11.94     > +5 C
+
+--- Ae. albopictus  (2 niches) ---
+country       +0 cons  +0 unan  +2 cons  +4 cons  threshold
+------------------------------------------------------------
+Malaysia        11.80    11.63    11.52     7.77     2.50 C
+Indonesia       11.36    10.98    10.53     6.85     2.25 C
+Thailand        11.51    11.02     9.34     5.82     1.25 C
+Philippines     11.73    11.58    10.77     7.51     2.25 C
+Vietnam         10.13     9.15     9.86     8.10     3.00 C
+India            8.31     7.03     7.24     5.70     2.00 C
+Bangladesh      10.92     9.87     8.70     5.48     1.00 C
+Cambodia        11.52    11.03     8.88     4.60     1.25 C
+Sri Lanka       11.55    11.10     8.90     3.88     1.00 C
+
+=== what the ensemble agrees on ===
+threshold = warming at which consensus suitability falls 1 month below present
+
+country          aegypti    albopictus    ordering
+----------------------------------------------------
+Malaysia          > +5 C        2.50 Calbopictus first
+Indonesia         > +5 C        2.25 Calbopictus first
+Thailand          > +5 C        1.25 Calbopictus first
+Philippines       > +5 C        2.25 Calbopictus first
+Vietnam           > +5 C        3.00 Calbopictus first
+India             5.00 C        2.00 Calbopictus first
+Bangladesh        > +5 C        1.00 Calbopictus first
+Cambodia          > +5 C        1.25 Calbopictus first
+Sri Lanka         > +5 C        1.00 Calbopictus first
+
+wrote consensus.json

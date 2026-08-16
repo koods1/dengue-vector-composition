@@ -1,0 +1,13 @@
+MCMC samples after thinning: 2500
+
+MedianM:
+  max |difference|        0.000e+00
+  mean |difference|       0.000e+00
+  suitability agreement   100.0000% of 120701 cells
+
+MeanM:
+  max |difference|        3.109e-15
+  mean |difference|       4.124e-17
+  suitability agreement   100.0000% of 120701 cells
+
+wrote niche_python.npz

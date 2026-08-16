@@ -1,0 +1,405 @@
+country,unit,pop_2050_ssp2,suitability_weighted_exposed,exposed_share
+Indonesia,Kalimantan Timur,4194389.0,3812270.8,0.9089
+Malaysia,Sabah,3689128.6,1966718.2,0.5331
+India,Ladakh,252384.7,6767.9,0.0268
+India,Arunachal Pradesh,1148022.3,196997.7,0.1716
+Vietnam,Kon Tum,487543.7,321443.8,0.6593
+Cambodia,Rôtânôkiri,115322.6,107099.8,0.9287
+Vietnam,Đắk Nông,462204.4,155416.1,0.3362
+Cambodia,Môndól Kiri,78363.2,73408.9,0.9368
+Vietnam,Đắk Lắk,1901816.8,1848501.2,0.972
+Vietnam,Gia Lai,1016537.4,855992.3,0.8421
+Vietnam,Bình Phước,1020506.8,1015972.0,0.9956
+Cambodia,Krâchéh,293664.1,293664.1,1.0
+Vietnam,Tây Ninh,1168394.7,1168394.7,1.0
+Cambodia,Kâmpóng Cham,1897735.5,1897735.5,1.0
+Cambodia,Svay Rieng,471347.2,471347.2,1.0
+Cambodia,Prey Vêng,1124270.5,1124270.5,1.0
+Vietnam,Long An,1853630.3,1777356.7,0.9589
+Vietnam,Ðong Tháp,1195645.5,1195645.5,1.0
+Vietnam,An Giang,2538985.3,2538985.3,1.0
+Cambodia,Kândal,1830014.0,1830014.0,1.0
+Cambodia,Takêv,1087341.8,1087341.8,1.0
+Vietnam,Kiên Giang,1875116.1,1680013.5,0.896
+Cambodia,Kâmpôt,690067.9,670829.8,0.9721
+Cambodia,Otdar Mean Chey,185285.3,185285.3,1.0
+Thailand,Surin,799414.4,799414.4,1.0
+Cambodia,Preah Vihéar,213399.7,213399.7,1.0
+Thailand,Si Sa Ket,727927.0,727927.0,1.0
+Thailand,Ubon Ratchathani,928618.0,928520.0,0.9999
+Cambodia,Siemréab,1598016.6,1598016.6,1.0
+Cambodia,Bântéay Méanchey,819383.6,819383.6,1.0
+Thailand,Sa Kaeo,464692.3,464532.4,0.9997
+Thailand,Buri Ram,1102266.5,1102266.5,1.0
+Cambodia,Kaôh Kong,98367.9,82888.6,0.8426
+Thailand,Trat,150390.2,71444.5,0.4751
+Cambodia,Pouthisat,490068.3,488018.2,0.9958
+Cambodia,Batdâmbâng,1398037.6,1397274.5,0.9995
+Cambodia,Krong Pailin,181513.1,181513.1,1.0
+Thailand,Chanthaburi,372730.4,330941.1,0.8879
+India,Sikkim,861054.6,0.0,0.0
+India,West Bengal,128364260.0,121110249.7,0.9435
+India,Assam,38497544.0,32097328.5,0.8338
+Malaysia,Perlis,303470.9,303470.9,1.0
+Thailand,Satun,287423.9,160590.2,0.5587
+Thailand,Songkhla,1676713.7,1316870.8,0.7854
+Malaysia,Kedah,2925552.9,2312037.2,0.7903
+Thailand,Yala,462037.0,447875.8,0.9694
+Malaysia,Kelantan,2247611.6,945250.7,0.4206
+Thailand,Narathiwat,716125.6,520361.4,0.7266
+Malaysia,Perak,3489009.1,2800920.1,0.8028
+Indonesia,Nusa Tenggara Timur,3494797.0,2376375.8,0.68
+Malaysia,Sarawak,2887277.4,1638733.6,0.5676
+Indonesia,Kalimantan Barat,4219269.0,3932839.5,0.9321
+Bangladesh,Chittagong,38267424.0,23802397.1,0.622
+India,Uttarakhand,14693752.5,7482634.1,0.5092
+India,Nagaland,2730709.8,1248049.8,0.457
+India,Manipur,4766416.6,1333309.4,0.2797
+India,Mizoram,1322697.1,718710.8,0.5434
+Thailand,Chiang Rai,925774.6,925502.9,0.9997
+Thailand,Chiang Mai,1996879.5,1947485.1,0.9753
+Thailand,Mae Hong Son,155062.5,143299.4,0.9241
+Thailand,Tak,334222.2,321170.6,0.9609
+Thailand,Kanchanaburi,730339.1,714963.6,0.9789
+Thailand,Prachuap Khiri Khan,367710.3,333686.2,0.9075
+Thailand,Phetchaburi,509488.9,437306.1,0.8583
+Thailand,Ratchaburi,780705.7,780705.7,1.0
+Thailand,Chumphon,221602.4,89311.0,0.403
+Thailand,Ranong,158292.5,106582.2,0.6733
+Thailand,Phayao,302659.5,302659.5,1.0
+Thailand,Nan,291365.6,264100.2,0.9064
+Thailand,Uttaradit,287929.6,287929.6,1.0
+Thailand,Phitsanulok,483948.3,483948.3,1.0
+Thailand,Loei,478980.3,478980.3,1.0
+Thailand,Bueng Kan,333935.3,302229.7,0.9051
+Thailand,Nong Khai,638501.5,638501.5,1.0
+Thailand,Nakhon Phanom,458337.1,446817.3,0.9749
+Thailand,Mukdahan,191701.7,191701.7,1.0
+Thailand,Amnat Charoen,147263.4,147263.4,1.0
+Vietnam,Điện Biên,388871.7,192910.9,0.4961
+Vietnam,Son La,777949.3,508256.4,0.6533
+Vietnam,Thanh Hóa,3449564.7,3020557.0,0.8756
+Vietnam,Nghệ An,3431487.0,1910498.6,0.5568
+Vietnam,Ha Tinh,1487527.1,520198.6,0.3497
+Vietnam,Quảng Bình,898491.6,472093.0,0.5254
+Vietnam,Quảng Trị,816842.4,505258.1,0.6186
+Vietnam,Thừa Thiên - Huế,1265024.5,584413.3,0.462
+Vietnam,Quàng Nam,1712300.0,1206015.8,0.7043
+Cambodia,Stœng Trêng,102516.7,102166.7,0.9966
+Vietnam,Hà Giang,782590.5,220399.2,0.2816
+Vietnam,Cao Bằng,324145.4,164740.3,0.5082
+Vietnam,Lào Cai,746939.2,402268.4,0.5386
+Vietnam,Lai Chau,300833.1,21018.8,0.0699
+Vietnam,Lạng Sơn,665511.8,411887.1,0.6189
+Vietnam,Quảng Ninh,1035670.2,593728.3,0.5733
+India,Tripura,6499073.6,6316910.5,0.972
+Bangladesh,Sylhet,13487665.9,9837554.9,0.7294
+India,Meghalaya,4911086.2,2713801.4,0.5526
+Bangladesh,Dhaka,65988013.7,41071080.5,0.6224
+Bangladesh,Rangpur,21222625.5,19146999.3,0.9022
+Bangladesh,Rajshahi,26061548.7,24665879.5,0.9464
+Bangladesh,Khulna,20675316.5,20582364.4,0.9955
+Indonesia,Papua,3210508.9,1975343.6,0.6153
+India,Punjab,42603014.1,31862697.2,0.7479
+India,Rajasthan,90011547.0,74688871.3,0.8298
+India,Gujarat,80828272.6,75890953.5,0.9389
+India,Himachal Pradesh,9022541.7,4504134.0,0.4992
+India,Jammu and Kashmir,18928119.9,7172287.1,0.3789
+India,Bihar,165674592.0,148526991.8,0.8965
+India,Uttar Pradesh,318085826.8,256314425.6,0.8058
+Indonesia,Jawa Timur,44944266.2,38882750.0,0.8651
+Indonesia,Maluku,998218.3,325495.3,0.3261
+Indonesia,Nusa Tenggara Barat,4728672.3,3080229.2,0.6514
+Indonesia,Sulawesi Selatan,9553540.0,5346614.1,0.5596
+Indonesia,Jawa Tengah,38865513.3,21029421.4,0.5411
+Indonesia,Jawa Barat,59508949.6,37895616.4,0.6368
+Indonesia,Jakarta Raya,14374557.0,14374557.0,1.0
+Indonesia,Banten,15778117.5,14323707.5,0.9078
+Indonesia,Yogyakarta,4178614.3,3958277.9,0.9473
+Indonesia,Sulawesi Tenggara,1089094.2,679569.8,0.624
+Indonesia,Papua Barat,707172.8,368383.6,0.5209
+Indonesia,Sulawesi Tengah,2539205.0,1193994.9,0.4702
+Indonesia,Maluku Utara,523574.7,276145.4,0.5274
+Indonesia,Kepulauan Riau,1656837.3,170628.4,0.103
+Indonesia,Riau,6321252.1,5911254.5,0.9351
+Indonesia,Gorontalo,1372726.2,788104.2,0.5741
+Indonesia,Sulawesi Utara,2757345.5,1625688.2,0.5896
+Indonesia,Sulawesi Barat,1198310.2,675600.3,0.5638
+Philippines,Sulu,482658.1,0.0,0.0
+Indonesia,Jambi,3590645.2,3468420.8,0.966
+Indonesia,Sumatera Selatan,8871025.6,8536392.3,0.9623
+Indonesia,Lampung,9811919.8,9274841.3,0.9453
+Indonesia,Bengkulu,2003120.3,1410593.0,0.7042
+Indonesia,Sumatera Barat,5191504.2,3526606.9,0.6793
+Indonesia,Sumatera Utara,14297499.9,11202654.3,0.7835
+Indonesia,Aceh,4119231.3,2434821.1,0.5911
+Indonesia,Kalimantan Tengah,1966181.3,1939539.9,0.9865
+Indonesia,Kalimantan Selatan,4610967.1,4508168.5,0.9777
+Philippines,Davao del Norte,1807843.8,554511.3,0.3067
+Philippines,Zamboanga Sibugay,839369.2,188727.4,0.2248
+Philippines,Palawan,525988.9,242549.0,0.4611
+Vietnam,Sóc Trăng,1675953.0,1492717.2,0.8907
+Philippines,Surigao del Norte,546514.7,9673.2,0.0177
+Philippines,Surigao del Sur,725549.1,286537.0,0.3949
+Philippines,Agusan del Norte,469460.9,345010.7,0.7349
+Philippines,Butuan,596229.6,585937.4,0.9827
+Philippines,Misamis Oriental,895893.3,310301.3,0.3464
+Philippines,Cagayan de Oro,1059279.6,809614.9,0.7643
+Philippines,Iligan,236167.9,218359.8,0.9246
+Philippines,Lanao del Norte,1134128.4,1013707.7,0.8938
+Philippines,Zamboanga del Sur,1530781.0,1437096.7,0.9388
+Philippines,Misamis Occidental,919734.9,553431.7,0.6017
+Philippines,Zamboanga del Norte,1110860.6,549841.5,0.495
+Philippines,Zamboanga,1291704.5,237637.6,0.184
+Philippines,Lanao del Sur,1250404.3,836081.9,0.6686
+Philippines,Maguindanao,1208716.6,1196242.3,0.9897
+Philippines,Cotabato,650372.2,650372.2,1.0
+Philippines,Sultan Kudarat,1267454.6,1267454.6,1.0
+Philippines,Sarangani,540200.0,496127.9,0.9184
+Philippines,General Santos,932747.8,932747.8,1.0
+Philippines,Davao del Sur,1455542.8,1235380.6,0.8487
+Philippines,Davao,2425869.6,614878.2,0.2535
+Philippines,Compostela Valley,1179475.9,615677.1,0.522
+Philippines,Davao Oriental,751110.1,379438.8,0.5052
+Sri Lanka,Trikuṇāmalaya,329637.7,201610.0,0.6116
+Sri Lanka,Mulativ,83908.0,83908.0,1.0
+Sri Lanka,Yāpanaya,712168.4,553360.1,0.777
+Sri Lanka,Kilinŏchchi,118402.7,118402.7,1.0
+Sri Lanka,Mannārama,87441.9,30544.6,0.3493
+Sri Lanka,Puttalama,839321.9,205493.7,0.2448
+Sri Lanka,Gampaha,3313789.8,1094962.8,0.3304
+Sri Lanka,Kŏḷamba,2984221.4,490572.7,0.1644
+Sri Lanka,Kaḷutara,1455808.8,780757.7,0.5363
+Sri Lanka,Gālla,1204366.4,1171344.2,0.9726
+Sri Lanka,Mātara,952188.2,559988.8,0.5881
+Sri Lanka,Hambantŏṭa,623750.9,607551.3,0.974
+Sri Lanka,Ampāra,625163.7,624255.3,0.9985
+Sri Lanka,Maḍakalapuva,366441.2,29589.8,0.0807
+Philippines,Southern Leyte,407926.3,0.0,0.0
+Vietnam,Tiền Giang,1929711.2,1498214.3,0.7764
+Vietnam,Bà Rịa - Vũng Tàu,1131742.5,510839.6,0.4514
+Cambodia,Krong Preah Sihanouk,166745.9,152643.0,0.9154
+Vietnam,Hồ Chí Minh city,11704229.3,11677453.1,0.9977
+Philippines,Leyte,1728576.1,768669.3,0.4447
+Philippines,Eastern Samar,367672.6,240549.2,0.6542
+Philippines,Biliran,115032.1,9228.3,0.0802
+Philippines,Samar,495984.2,293019.8,0.5908
+Vietnam,Khánh Hòa,1406222.0,338791.7,0.2409
+India,Andhra Pradesh,67773604.2,62593500.3,0.9236
+Philippines,Aurora,279608.7,128155.2,0.4583
+Philippines,Quezon,2466919.1,1582307.4,0.6414
+Philippines,Camarines Norte,623084.9,528318.8,0.8479
+Philippines,Camarines Sur,1759027.8,209687.7,0.1192
+Philippines,Albay,1282390.0,898653.2,0.7008
+Philippines,Sorsogon,569585.3,15133.5,0.0266
+Philippines,Lucena,550269.6,0.0,0.0
+Philippines,Batangas,4264415.8,3453361.7,0.8098
+Philippines,Cavite,8658529.7,8658529.7,1.0
+Philippines,Las Pinas,1112020.0,1112020.0,1.0
+Philippines,Paranaque,1770648.4,1516915.8,0.8567
+Philippines,Pasay,639322.5,348356.9,0.5449
+Philippines,Manila,2387817.9,799999.5,0.335
+Philippines,Navotas,682920.9,0.0,0.0
+Philippines,Bulacan,8548128.5,3415956.1,0.3996
+Philippines,Pampanga,4227591.0,2724939.5,0.6446
+Philippines,Bataan,903035.5,39805.8,0.0441
+Philippines,Olongapo,482177.5,0.0,0.0
+Philippines,Zambales,695344.1,172407.0,0.2479
+Philippines,Pangasinan,4019872.9,2512092.8,0.6249
+Philippines,Dagupan,469350.9,14076.3,0.03
+Philippines,La Union,1264558.8,2477.7,0.002
+Philippines,Ilocos Sur,1003119.3,81249.4,0.081
+Philippines,Ilocos Norte,688843.1,586503.6,0.8514
+Philippines,Cagayan,1301935.7,1218354.1,0.9358
+Philippines,Isabela,1826023.9,1777165.2,0.9732
+India,Odisha,52057195.1,48423318.0,0.9302
+Bangladesh,Barisal,9946771.0,8118021.5,0.8161
+Thailand,Phangnga,309324.5,93458.3,0.3021
+Thailand,Krabi,401229.0,396352.4,0.9878
+Thailand,Trang,595243.1,566848.0,0.9523
+Malaysia,Pulau Pinang,2507923.5,160821.6,0.0641
+Malaysia,Selangor,10783146.0,8540643.2,0.792
+Malaysia,Negeri Sembilan,1479565.5,1443900.3,0.9759
+Malaysia,Melaka,1307751.9,1306081.2,0.9987
+Malaysia,Johor,5154580.0,3507177.0,0.6804
+Malaysia,Pahang,1627154.3,1424743.9,0.8756
+Malaysia,Terengganu,1156354.1,354852.7,0.3069
+Thailand,Pattani,638229.8,533102.5,0.8353
+Thailand,Phatthalung,500167.8,500167.8,1.0
+Thailand,Nakhon Si Thammarat,1486816.1,1268112.7,0.8529
+Thailand,Surat Thani,970345.4,505306.0,0.5207
+Thailand,Samut Songkhram,188691.3,138128.9,0.732
+Thailand,Samut Sakhon,1748950.6,1709616.6,0.9775
+Thailand,Bangkok Metropolis,14813039.0,14812997.7,1.0
+Thailand,Samut Prakan,4183485.9,4171603.4,0.9972
+Thailand,Chachoengsao,916914.6,902960.7,0.9848
+Thailand,Chon Buri,1891757.4,1000142.3,0.5287
+Thailand,Rayong,1049151.8,1027378.5,0.9792
+Cambodia,Kep,38000.7,29506.5,0.7765
+Vietnam,Cà Mau,1245534.3,874694.8,0.7023
+Vietnam,Bạc Liêu,1018981.5,1018981.5,1.0
+Vietnam,Hau Giang,1992598.6,1992598.6,1.0
+Vietnam,Vĩnh Long,1278106.5,1278106.5,1.0
+Vietnam,Trà Vinh,1171262.5,1121583.5,0.9576
+Vietnam,Bến Tre,1296882.8,859387.8,0.6627
+Vietnam,Đông Nam Bộ,3442889.9,3278226.3,0.9522
+Vietnam,Bình Thuận,1177101.3,642053.7,0.5455
+Vietnam,Ninh Thuận,689686.2,414682.7,0.6013
+Vietnam,Phú Yên,891024.2,858738.0,0.9638
+Vietnam,Bình Định,1281462.1,206734.0,0.1613
+Vietnam,Quảng Ngãi,1222660.3,914696.5,0.7481
+Vietnam,Đà Nẵng,1005695.8,18411.3,0.0183
+Vietnam,Ninh Bình,981283.7,808561.3,0.824
+Vietnam,Nam Định,2202034.3,1802879.0,0.8187
+Vietnam,Thái Bình,2077812.6,1577186.8,0.7591
+Vietnam,Hải Phòng,2376161.4,1979298.9,0.833
+India,Dadra and Nagar Haveli and Daman and Diu,962152.7,835559.7,0.8684
+India,Maharashtra,151459902.4,121859876.4,0.8046
+India,Goa,1663088.1,659131.8,0.3963
+India,Karnataka,81206101.0,77481192.7,0.9541
+India,Kerala,47659527.1,28877237.3,0.6059
+India,Puducherry,1608972.5,1533298.2,0.953
+India,Tamil Nadu,108081701.5,98717970.7,0.9134
+India,Lakshadweep,3701.0,0.0,0.0
+India,Andaman and Nicobar,253773.5,173750.7,0.6847
+Indonesia,Bali,4963891.2,757389.8,0.1526
+Singapore,South West,1958053.8,0.0,0.0
+Singapore,Central Singapore,2018828.3,0.0,0.0
+Singapore,South East,1451607.3,0.0,0.0
+Singapore,North East,309748.7,0.0,0.0
+Singapore,North West,771810.5,0.0,0.0
+Malaysia,Labuan,110891.6,0.0,0.0
+Thailand,Phuket,936534.0,0.0,0.0
+Indonesia,Bangka-Belitung,1000155.1,182906.2,0.1829
+Philippines,Tawi-Tawi,53924.7,13513.4,0.2506
+Philippines,Basilan,260688.4,0.0,0.0
+Philippines,Camiguin,101532.6,0.0,0.0
+Philippines,Siquijor,73755.7,4984.8,0.0676
+Philippines,Bohol,1508998.7,802579.0,0.5319
+Philippines,Guimaras,247409.9,478.7,0.0019
+Philippines,Bacolod,641985.3,79413.5,0.1237
+Philippines,Negros Occidental,3148417.9,2054445.8,0.6525
+Philippines,Negros Oriental,1958699.9,1373920.4,0.7014
+Philippines,Cebu,1589218.7,1589218.7,1.0
+Philippines,Mandaue,822900.6,822900.6,1.0
+Philippines,Cebu,3801014.9,2478374.1,0.652
+Philippines,Puerto Princesa,199479.8,192135.5,0.9632
+Philippines,Tacloban,438833.8,422915.0,0.9637
+Philippines,Ormoc,231184.1,229240.8,0.9916
+Philippines,Aklan,751359.8,665330.3,0.8855
+Philippines,Antique,551508.4,324598.9,0.5886
+Philippines,Iloilo,2806880.1,1679711.1,0.5984
+Philippines,Iloilo,837793.5,38176.6,0.0456
+Philippines,Capiz,1170899.7,721930.8,0.6166
+Philippines,Romblon,195145.2,0.0,0.0
+Philippines,Northern Samar,338327.9,171280.7,0.5063
+Philippines,Masbate,602471.9,377841.3,0.6272
+Philippines,Mindoro Oriental,1044701.9,884506.8,0.8467
+Philippines,Mindoro Occidental,542894.5,383204.6,0.7059
+Philippines,Marinduque,269033.7,1560.8,0.0058
+Philippines,Catanduanes,182876.5,141219.3,0.7722
+Philippines,Batanes,11706.8,0.0,0.0
+Philippines,Lapu-Lapu,0.0,0.0,
+Vietnam,Hòa Bình,788818.0,616772.1,0.7819
+Vietnam,Tuyên Quang,699145.1,562550.5,0.8046
+Vietnam,Yên Bái,641582.5,406540.6,0.6337
+Vietnam,Vĩnh Phúc,1450948.6,1209123.9,0.8333
+Vietnam,Phú Thọ,937047.8,773480.3,0.8254
+Vietnam,Ha Noi,9614076.1,8011687.7,0.8333
+Vietnam,Đông Bắc,240745.3,141696.2,0.5886
+Vietnam,Đồng Bằng Sông Hồng,1528317.2,1273597.7,0.8333
+Vietnam,Bắc Ninh,1316193.5,1096827.9,0.8333
+Vietnam,Bắc Giang,1622780.6,1321579.9,0.8144
+Vietnam,Thái Nguyên,1214605.5,1003853.1,0.8265
+Vietnam,Hải Dương,2259731.9,1877171.4,0.8307
+Vietnam,Hà Nam,1049669.2,874724.3,0.8333
+Vietnam,Bình Dương,3245780.9,3245780.9,1.0
+Vietnam,Lâm Đồng,1340532.1,1052904.5,0.7854
+Vietnam,Can Tho,1319504.4,1319504.4,1.0
+India,Jharkhand,45330937.7,41773008.7,0.9215
+India,Delhi,28818999.5,21614249.6,0.75
+India,Chandigarh,1239423.6,929567.7,0.75
+India,Madhya Pradesh,94834628.9,84786594.5,0.894
+Thailand,Khon Kaen,1770817.3,1770817.3,1.0
+Thailand,Sakon Nakhon,816789.4,815548.7,0.9985
+Thailand,Suphan Buri,821059.6,821059.6,1.0
+Thailand,Sing Buri,169249.6,169249.6,1.0
+Thailand,Chai Nat,215638.9,215638.9,1.0
+Thailand,Ang Thong,281383.7,281383.7,1.0
+Thailand,Saraburi,865667.9,865667.9,1.0
+Thailand,Nakhon Ratchasima,2719461.8,2717639.7,0.9993
+Thailand,Nakhon Nayok,265229.2,265221.4,1.0
+Thailand,Pathum Thani,3200824.7,3200824.7,1.0
+Thailand,Uthai Thani,165767.4,165743.5,0.9999
+Thailand,Kalasin,537784.0,537784.0,1.0
+Thailand,Roi Et,575064.9,575064.9,1.0
+Thailand,Maha Sarakham,681184.5,681184.5,1.0
+Thailand,Nong Bua Lam Phu,573072.3,573072.3,1.0
+Thailand,Lop Buri,686488.1,686488.1,1.0
+Thailand,Udon Thani,1412170.9,1412170.9,1.0
+Thailand,Phra Nakhon Si Ayutthaya,988220.4,988220.4,1.0
+Thailand,Nonthaburi,2288134.5,2288134.5,1.0
+Thailand,Nakhon Pathom,1095843.4,1095843.4,1.0
+Thailand,Kamphaeng Phet,338568.0,338568.0,1.0
+Thailand,Lampang,650050.0,650050.0,1.0
+Thailand,Sukhothai,405773.1,405773.1,1.0
+Thailand,Nakhon Sawan,560192.1,560192.1,1.0
+Thailand,Phetchabun,560140.8,560140.8,1.0
+Thailand,Phichit,213225.8,213225.8,1.0
+Thailand,Chaiyaphum,886405.9,886405.9,1.0
+Thailand,Phrae,415006.1,415006.1,1.0
+Thailand,Lamphun,442433.8,442433.8,1.0
+Thailand,Prachin Buri,612772.8,597726.4,0.9754
+Thailand,Yasothon,216954.5,216954.5,1.0
+Malaysia,Kuala Lumpur,3201964.0,3201964.0,1.0
+Malaysia,Putrajaya,112691.7,112691.7,1.0
+Philippines,Agusan del Sur,969655.9,941242.9,0.9707
+Philippines,Bukidnon,2227781.1,1553256.1,0.6972
+Philippines,Cotabato,2301071.1,2296517.7,0.998
+Philippines,South Cotabato,1308489.2,1308489.2,1.0
+Cambodia,Kâmpóng Chhnang,561374.2,561374.2,1.0
+Cambodia,Kâmpóng Thum,667597.6,667597.6,1.0
+Cambodia,Kâmpóng Spœ,966570.1,965309.3,0.9987
+Cambodia,Phnom Penh,2518930.3,2518930.3,1.0
+Sri Lanka,Ratnapura,1302547.3,865478.3,0.6645
+Sri Lanka,Mŏṇarāgala,400367.9,392033.4,0.9792
+Sri Lanka,Kægalla,1077219.6,1077187.3,1.0
+Sri Lanka,Badulla,937995.8,557041.9,0.5939
+Sri Lanka,Mātale,556727.1,556727.1,1.0
+Sri Lanka,Pŏḷŏnnaruva,352666.0,352666.0,1.0
+Sri Lanka,Kuruṇægala,1960298.9,1771831.5,0.9039
+Sri Lanka,Anurādhapura,806840.1,806840.1,1.0
+Sri Lanka,Nuvara Ĕliya,890437.2,376036.7,0.4223
+Sri Lanka,Vavuniyāva,187888.0,187888.0,1.0
+Sri Lanka,Mahanuvara,2002966.8,1990156.0,0.9936
+Philippines,Muntinlupa,643495.6,643495.6,1.0
+Philippines,Caloocan,1911942.2,1601466.6,0.8376
+Philippines,Malabon,795948.2,32636.8,0.041
+Philippines,Valenzuela,1608980.4,554985.8,0.3449
+Philippines,Quezon City,5582559.4,5582559.4,1.0
+Philippines,Nueva Ecija,3414192.1,3406955.7,0.9979
+Philippines,Laguna,6214620.8,6214562.3,1.0
+Philippines,Rizal,3378958.8,3378958.8,1.0
+Philippines,Taguig,695483.9,695483.9,1.0
+Philippines,Marikina,428190.4,428190.4,1.0
+Philippines,Pasig,1308050.2,1308050.2,1.0
+Philippines,Quirino,275794.3,217447.0,0.7884
+Philippines,Santiago,255109.0,255109.0,1.0
+Philippines,Nueva Vizcaya,711283.5,523024.9,0.7353
+Philippines,Benguet,1096839.8,442072.8,0.403
+Philippines,Ifugao,327319.8,269668.9,0.8239
+Philippines,Mountain Province,258014.7,95062.1,0.3684
+Philippines,Tarlac,2113256.4,2100273.2,0.9939
+Philippines,Apayao,112735.0,112196.2,0.9952
+Philippines,Kalinga,287854.9,161956.1,0.5626
+Philippines,Abra,285731.2,243513.7,0.8522
+India,Chhattisgarh,32771423.9,30097590.9,0.9184
+India,Haryana,41330022.9,30525611.9,0.7386
+India,Telangana,47049068.8,46005348.4,0.9778
+Philippines,Naga,355418.8,0.0,0.0
+Philippines,Angeles,628200.4,628200.4,1.0
+Philippines,Baguio,701282.3,409081.3,0.5833
+Philippines,Makati,748572.1,748572.1,1.0
+Philippines,Pateros,70830.3,70830.3,1.0
+Philippines,Mandaluyong City,366213.8,366213.8,1.0
+Philippines,San Juan,69030.6,69030.6,1.0

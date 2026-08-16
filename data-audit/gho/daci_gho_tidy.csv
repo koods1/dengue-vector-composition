@@ -1,0 +1,1850 @@
+iso3,country,code,indicator,year,value
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2000,0.50841981
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2001,0.38396508
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2002,0.47014153
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2003,0.48277113
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2004,0.48091501
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2005,0.45040676
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2006,0.47882023
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2007,0.48857561
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2008,0.44322866
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2009,0.43522108
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2010,0.47062662
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2011,0.4823136
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2012,0.46968287
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2013,0.4372614
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2014,0.4220427
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2015,0.38844827
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2016,0.4755646
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2017,0.50250494
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2018,0.48568422
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2019,0.36105901
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2020,0.35576752
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2021,0.38806468
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2022,0.34193528
+BGD,Bangladesh,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2023,0.31430635
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2000,61.82206726
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2001,65.80530548
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2002,62.93533707
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2003,63.01078033
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2004,63.09557724
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2005,65.38332367
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2006,65.63786316
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2007,66.41323853
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2008,67.83094788
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2009,67.94347382
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2010,67.95515442
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2011,68.17604828
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2012,68.27939606
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2013,69.62185669
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2014,70.75862885
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2015,72.67826843
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2016,71.49494171
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2017,70.08963776
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2018,70.67902374
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2019,76.47038269
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2020,76.98878479
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2021,76.14752197
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2022,78.25325775
+BGD,Bangladesh,GHED_OOPSCHE_SHA2011,OOP % of CHE,2023,79.30711365
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2001,2.38
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2003,2.6
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2004,2.69
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2005,2.96
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2006,3.05
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2007,3.17
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2008,3.3
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2009,3.43
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2010,3.52
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2011,3.73
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2012,3.9
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2013,4.12
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2014,4.78
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2015,4.76
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2016,4.89
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2017,5.35
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2018,5.73
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2019,6.3
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2020,6.61
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2021,6.77
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2022,7.17
+BGD,Bangladesh,HWF_0001,Medical doctors per 10k,2023,7.22
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2003,1.38
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2005,1.39
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2006,1.38
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2007,1.57
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2008,1.57
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2009,1.66
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2010,1.77
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2011,1.88
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2012,1.98
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2013,1.95
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2014,2.43
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2015,2.6
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2016,2.59
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2017,3.04
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2018,4.66
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2019,4.77
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2020,5.48
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2021,6.19
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2022,6.22
+BGD,Bangladesh,HWF_0006,Nurses/midwives per 10k,2023,6.64
+BGD,Bangladesh,IHRSPAR2_C01,SPAR C01 policy/legal,2021,60.0
+BGD,Bangladesh,IHRSPAR2_C01,SPAR C01 policy/legal,2022,60.0
+BGD,Bangladesh,IHRSPAR2_C01,SPAR C01 policy/legal,2023,70.0
+BGD,Bangladesh,IHRSPAR2_C03,SPAR C03 financing,2021,70.0
+BGD,Bangladesh,IHRSPAR2_C03,SPAR C03 financing,2022,70.0
+BGD,Bangladesh,IHRSPAR2_C03,SPAR C03 financing,2023,70.0
+BGD,Bangladesh,IHRSPAR2_C04,SPAR C04 laboratory,2021,76.0
+BGD,Bangladesh,IHRSPAR2_C04,SPAR C04 laboratory,2022,80.0
+BGD,Bangladesh,IHRSPAR2_C04,SPAR C04 laboratory,2023,76.0
+BGD,Bangladesh,IHRSPAR2_C05,SPAR C05 surveillance,2021,80.0
+BGD,Bangladesh,IHRSPAR2_C05,SPAR C05 surveillance,2022,80.0
+BGD,Bangladesh,IHRSPAR2_C05,SPAR C05 surveillance,2023,80.0
+BGD,Bangladesh,IHRSPAR2_C06,SPAR C06 human resources,2021,50.0
+BGD,Bangladesh,IHRSPAR2_C06,SPAR C06 human resources,2022,50.0
+BGD,Bangladesh,IHRSPAR2_C06,SPAR C06 human resources,2023,60.0
+BGD,Bangladesh,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2021,73.0
+BGD,Bangladesh,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2022,73.0
+BGD,Bangladesh,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2023,73.0
+BGD,Bangladesh,IHRSPAR2_C08,SPAR C08 health services provision,2021,80.0
+BGD,Bangladesh,IHRSPAR2_C08,SPAR C08 health services provision,2022,80.0
+BGD,Bangladesh,IHRSPAR2_C08,SPAR C08 health services provision,2023,80.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2000,24.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2001,25.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2002,26.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2003,27.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2004,28.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2005,30.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2006,31.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2007,33.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2008,34.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2009,36.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2010,37.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2011,38.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2012,40.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2013,41.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2014,43.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2015,45.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2016,46.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2017,47.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2018,47.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2019,50.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2020,52.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2021,52.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2022,54.0
+BGD,Bangladesh,UHC_INDEX_REPORTED,UHC service coverage index,2023,54.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2000,82.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2001,85.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2002,83.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2003,87.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2004,99.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2005,93.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2006,94.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2007,94.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2008,96.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2009,97.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2010,94.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2011,96.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2012,94.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2013,96.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2014,97.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2015,98.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2016,98.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2017,98.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2018,98.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2019,98.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2020,97.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2021,97.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2022,97.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2023,97.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2024,97.0
+BGD,Bangladesh,WHS4_100,DTP3 coverage %,2025,92.0
+BGD,Bangladesh,WHS6_102,Hospital beds per 10k,2007,3.492415055
+BGD,Bangladesh,WHS6_102,Hospital beds per 10k,2008,3.741647408
+BGD,Bangladesh,WHS6_102,Hospital beds per 10k,2009,4.88879057
+BGD,Bangladesh,WHS6_102,Hospital beds per 10k,2010,5.359851499
+BGD,Bangladesh,WHS6_102,Hospital beds per 10k,2011,5.330778497
+BGD,Bangladesh,WHS6_102,Hospital beds per 10k,2012,6.132903329
+BGD,Bangladesh,WHS6_102,Hospital beds per 10k,2013,5.82027454
+BGD,Bangladesh,WHS6_102,Hospital beds per 10k,2014,5.970818928
+BGD,Bangladesh,WHS6_102,Hospital beds per 10k,2015,7.628408468
+BGD,Bangladesh,WHS6_102,Hospital beds per 10k,2016,7.919810181
+BGD,Bangladesh,WHS6_102,Hospital beds per 10k,2017,8.448563736
+BGD,Bangladesh,WHS6_102,Hospital beds per 10k,2018,8.769035819
+BGD,Bangladesh,WHS6_102,Hospital beds per 10k,2019,8.865095342
+BGD,Bangladesh,WHS6_102,Hospital beds per 10k,2020,9.678888307
+BGD,Bangladesh,WHS6_102,Hospital beds per 10k,2021,9.430161025
+BGD,Bangladesh,WHS6_102,Hospital beds per 10k,2022,10.132839947
+BGD,Bangladesh,WHS6_102,Hospital beds per 10k,2023,9.24924405
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2000,0.54974306
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2001,0.77221775
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2002,0.67425066
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2003,0.81785041
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2004,0.74926209
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2005,0.73213077
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2006,0.83084059
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2007,1.01869452
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2008,0.89791358
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2009,0.92164314
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2010,0.66109079
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2011,0.70190871
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2012,0.76724905
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2013,0.81686825
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2014,0.99270725
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2015,1.15799773
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2016,1.37558317
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2017,1.34984481
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2018,1.395854
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2019,1.39791656
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2020,1.88725579
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2021,2.20201159
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2022,1.39438057
+IDN,Indonesia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2023,1.44882917
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2000,45.19502258
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2001,40.49210739
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2002,46.37796402
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2003,46.01685333
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2004,45.9106369
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2005,55.3282814
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2006,53.37503815
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2007,49.54561996
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2008,49.36756516
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2009,49.22135544
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2010,60.58386612
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2011,56.22341919
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2012,53.61792374
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2013,50.89988327
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2014,45.24729156
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2015,42.71576691
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2016,38.12414932
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2017,36.17775345
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2018,35.23954773
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2019,34.55001068
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2020,31.19621658
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2021,27.1673317
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2022,32.9629097
+IDN,Indonesia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2023,31.0836544
+IDN,Indonesia,HWF_0001,Medical doctors per 10k,1993,0.57
+IDN,Indonesia,HWF_0001,Medical doctors per 10k,2003,1.31
+IDN,Indonesia,HWF_0001,Medical doctors per 10k,2009,2.59
+IDN,Indonesia,HWF_0001,Medical doctors per 10k,2010,2.39
+IDN,Indonesia,HWF_0001,Medical doctors per 10k,2012,1.97
+IDN,Indonesia,HWF_0001,Medical doctors per 10k,2015,2.7
+IDN,Indonesia,HWF_0001,Medical doctors per 10k,2017,3.73
+IDN,Indonesia,HWF_0001,Medical doctors per 10k,2018,4.21
+IDN,Indonesia,HWF_0001,Medical doctors per 10k,2019,4.62
+IDN,Indonesia,HWF_0001,Medical doctors per 10k,2020,6.2
+IDN,Indonesia,HWF_0001,Medical doctors per 10k,2021,6.88
+IDN,Indonesia,HWF_0001,Medical doctors per 10k,2022,6.81
+IDN,Indonesia,HWF_0001,Medical doctors per 10k,2023,5.24
+IDN,Indonesia,HWF_0001,Medical doctors per 10k,2024,5.59
+IDN,Indonesia,HWF_0006,Nurses/midwives per 10k,1992,6.19
+IDN,Indonesia,HWF_0006,Nurses/midwives per 10k,2003,8.0
+IDN,Indonesia,HWF_0006,Nurses/midwives per 10k,2013,6.52
+IDN,Indonesia,HWF_0006,Nurses/midwives per 10k,2014,10.86
+IDN,Indonesia,HWF_0006,Nurses/midwives per 10k,2015,12.82
+IDN,Indonesia,HWF_0006,Nurses/midwives per 10k,2016,11.93
+IDN,Indonesia,HWF_0006,Nurses/midwives per 10k,2017,12.92
+IDN,Indonesia,HWF_0006,Nurses/midwives per 10k,2018,30.89
+IDN,Indonesia,HWF_0006,Nurses/midwives per 10k,2019,37.81
+IDN,Indonesia,HWF_0006,Nurses/midwives per 10k,2020,39.35
+IDN,Indonesia,HWF_0006,Nurses/midwives per 10k,2021,40.52
+IDN,Indonesia,HWF_0006,Nurses/midwives per 10k,2022,41.23
+IDN,Indonesia,HWF_0006,Nurses/midwives per 10k,2023,32.4
+IDN,Indonesia,HWF_0006,Nurses/midwives per 10k,2024,33.0
+IDN,Indonesia,IHRSPAR2_C01,SPAR C01 policy/legal,2021,40.0
+IDN,Indonesia,IHRSPAR2_C01,SPAR C01 policy/legal,2022,70.0
+IDN,Indonesia,IHRSPAR2_C01,SPAR C01 policy/legal,2023,80.0
+IDN,Indonesia,IHRSPAR2_C03,SPAR C03 financing,2021,70.0
+IDN,Indonesia,IHRSPAR2_C03,SPAR C03 financing,2022,80.0
+IDN,Indonesia,IHRSPAR2_C03,SPAR C03 financing,2023,80.0
+IDN,Indonesia,IHRSPAR2_C04,SPAR C04 laboratory,2021,72.0
+IDN,Indonesia,IHRSPAR2_C04,SPAR C04 laboratory,2022,72.0
+IDN,Indonesia,IHRSPAR2_C04,SPAR C04 laboratory,2023,72.0
+IDN,Indonesia,IHRSPAR2_C05,SPAR C05 surveillance,2021,90.0
+IDN,Indonesia,IHRSPAR2_C05,SPAR C05 surveillance,2022,90.0
+IDN,Indonesia,IHRSPAR2_C05,SPAR C05 surveillance,2023,90.0
+IDN,Indonesia,IHRSPAR2_C06,SPAR C06 human resources,2021,60.0
+IDN,Indonesia,IHRSPAR2_C06,SPAR C06 human resources,2022,60.0
+IDN,Indonesia,IHRSPAR2_C06,SPAR C06 human resources,2023,70.0
+IDN,Indonesia,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2021,73.0
+IDN,Indonesia,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2022,87.0
+IDN,Indonesia,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2023,93.0
+IDN,Indonesia,IHRSPAR2_C08,SPAR C08 health services provision,2021,80.0
+IDN,Indonesia,IHRSPAR2_C08,SPAR C08 health services provision,2022,87.0
+IDN,Indonesia,IHRSPAR2_C08,SPAR C08 health services provision,2023,87.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2000,44.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2001,45.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2002,46.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2003,46.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2004,47.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2005,48.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2006,49.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2007,49.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2008,50.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2009,51.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2010,51.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2011,52.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2012,54.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2013,56.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2014,58.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2015,59.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2016,60.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2017,63.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2018,63.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2019,65.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2020,66.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2021,66.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2022,68.0
+IDN,Indonesia,UHC_INDEX_REPORTED,UHC service coverage index,2023,67.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2000,75.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2001,76.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2002,70.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2003,71.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2004,71.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2005,72.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2006,72.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2007,73.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2008,77.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2009,78.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2010,81.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2011,81.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2012,87.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2013,92.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2014,88.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2015,84.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2016,84.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2017,85.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2018,85.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2019,85.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2020,77.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2021,67.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2022,91.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2023,83.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2024,78.0
+IDN,Indonesia,WHS4_100,DTP3 coverage %,2025,82.0
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2000,5.808093438
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2001,5.806034468
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2002,5.8447421
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2003,5.826312454
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2004,5.801471683
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2005,5.923897568
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2006,5.917932163
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2007,6.019808992
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2008,6.226653303
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2009,5.822012394
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2010,5.565044072
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2011,6.005771539
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2012,8.06367977
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2013,9.589120005
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2014,9.139847771
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2015,9.520844693
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2016,9.690076383
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2017,10.170390872
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2018,11.509830492
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2019,11.633334071
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2020,13.81104325
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2021,13.412256323
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2022,14.0
+IDN,Indonesia,WHS6_102,Hospital beds per 10k,2023,13.68533391
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2000,0.84906155
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2001,0.81879407
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2002,0.78371018
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2003,0.76340038
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2004,0.72411484
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2005,0.77590197
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2006,0.75237411
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2007,0.74839747
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2008,0.8119961
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2009,0.90823442
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2010,0.87431055
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2011,0.93731916
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2012,0.93186861
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2013,0.86504197
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2014,0.85653549
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2015,0.92193186
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2016,0.94049966
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2017,0.96734685
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2018,0.98024821
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2019,1.03550148
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2020,1.21139216
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2021,1.35207272
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2022,1.37196231
+IND,India,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2023,1.30319667
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2000,71.70202637
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2001,74.1062088
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2002,73.3739624
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2003,73.42475128
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2004,72.48267365
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2005,73.14936829
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2006,72.25708008
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2007,70.81672668
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2008,69.14794159
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2009,66.75775146
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2010,65.18476868
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2011,62.22489929
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2012,63.00013733
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2013,69.07303619
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2014,67.01399994
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2015,64.66441345
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2016,63.20619965
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2017,55.11247635
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2018,53.22994614
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2019,52.00421143
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2020,49.51094055
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2021,45.10914612
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2022,44.54133987
+IND,India,GHED_OOPSCHE_SHA2011,OOP % of CHE,2023,43.88510513
+IND,India,HWF_0001,Medical doctors per 10k,1991,12.31
+IND,India,HWF_0001,Medical doctors per 10k,1995,4.79
+IND,India,HWF_0001,Medical doctors per 10k,1996,4.88
+IND,India,HWF_0001,Medical doctors per 10k,1997,4.97
+IND,India,HWF_0001,Medical doctors per 10k,1998,5.06
+IND,India,HWF_0001,Medical doctors per 10k,1999,5.16
+IND,India,HWF_0001,Medical doctors per 10k,2000,5.25
+IND,India,HWF_0001,Medical doctors per 10k,2001,5.45
+IND,India,HWF_0001,Medical doctors per 10k,2002,5.55
+IND,India,HWF_0001,Medical doctors per 10k,2003,5.65
+IND,India,HWF_0001,Medical doctors per 10k,2004,5.67
+IND,India,HWF_0001,Medical doctors per 10k,2005,5.85
+IND,India,HWF_0001,Medical doctors per 10k,2006,5.97
+IND,India,HWF_0001,Medical doctors per 10k,2007,6.14
+IND,India,HWF_0001,Medical doctors per 10k,2008,6.3
+IND,India,HWF_0001,Medical doctors per 10k,2009,6.47
+IND,India,HWF_0001,Medical doctors per 10k,2010,6.65
+IND,India,HWF_0001,Medical doctors per 10k,2011,7.31
+IND,India,HWF_0001,Medical doctors per 10k,2012,6.91
+IND,India,HWF_0001,Medical doctors per 10k,2013,7.09
+IND,India,HWF_0001,Medical doctors per 10k,2014,7.15
+IND,India,HWF_0001,Medical doctors per 10k,2015,7.23
+IND,India,HWF_0001,Medical doctors per 10k,2016,7.48
+IND,India,HWF_0001,Medical doctors per 10k,2017,7.66
+IND,India,HWF_0001,Medical doctors per 10k,2018,8.4
+IND,India,HWF_0001,Medical doctors per 10k,2019,8.89
+IND,India,HWF_0001,Medical doctors per 10k,2020,9.04
+IND,India,HWF_0001,Medical doctors per 10k,2021,9.2
+IND,India,HWF_0001,Medical doctors per 10k,2022,9.18
+IND,India,HWF_0001,Medical doctors per 10k,2023,9.39
+IND,India,HWF_0001,Medical doctors per 10k,2024,9.55
+IND,India,HWF_0006,Nurses/midwives per 10k,2005,12.83
+IND,India,HWF_0006,Nurses/midwives per 10k,2006,12.87
+IND,India,HWF_0006,Nurses/midwives per 10k,2007,13.21
+IND,India,HWF_0006,Nurses/midwives per 10k,2008,13.68
+IND,India,HWF_0006,Nurses/midwives per 10k,2009,13.89
+IND,India,HWF_0006,Nurses/midwives per 10k,2010,15.24
+IND,India,HWF_0006,Nurses/midwives per 10k,2011,16.85
+IND,India,HWF_0006,Nurses/midwives per 10k,2012,18.33
+IND,India,HWF_0006,Nurses/midwives per 10k,2014,19.98
+IND,India,HWF_0006,Nurses/midwives per 10k,2015,20.92
+IND,India,HWF_0006,Nurses/midwives per 10k,2016,21.42
+IND,India,HWF_0006,Nurses/midwives per 10k,2017,21.82
+IND,India,HWF_0006,Nurses/midwives per 10k,2018,17.0
+IND,India,HWF_0006,Nurses/midwives per 10k,2020,23.27
+IND,India,HWF_0006,Nurses/midwives per 10k,2021,24.85
+IND,India,HWF_0006,Nurses/midwives per 10k,2022,25.35
+IND,India,HWF_0006,Nurses/midwives per 10k,2023,26.57
+IND,India,HWF_0006,Nurses/midwives per 10k,2024,27.15
+IND,India,IHRSPAR2_C01,SPAR C01 policy/legal,2021,40.0
+IND,India,IHRSPAR2_C01,SPAR C01 policy/legal,2022,60.0
+IND,India,IHRSPAR2_C01,SPAR C01 policy/legal,2023,70.0
+IND,India,IHRSPAR2_C03,SPAR C03 financing,2021,100.0
+IND,India,IHRSPAR2_C03,SPAR C03 financing,2022,100.0
+IND,India,IHRSPAR2_C03,SPAR C03 financing,2023,100.0
+IND,India,IHRSPAR2_C04,SPAR C04 laboratory,2021,80.0
+IND,India,IHRSPAR2_C04,SPAR C04 laboratory,2022,80.0
+IND,India,IHRSPAR2_C04,SPAR C04 laboratory,2023,80.0
+IND,India,IHRSPAR2_C05,SPAR C05 surveillance,2021,100.0
+IND,India,IHRSPAR2_C05,SPAR C05 surveillance,2022,100.0
+IND,India,IHRSPAR2_C05,SPAR C05 surveillance,2023,100.0
+IND,India,IHRSPAR2_C06,SPAR C06 human resources,2021,100.0
+IND,India,IHRSPAR2_C06,SPAR C06 human resources,2022,100.0
+IND,India,IHRSPAR2_C06,SPAR C06 human resources,2023,100.0
+IND,India,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2021,100.0
+IND,India,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2022,93.0
+IND,India,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2023,93.0
+IND,India,IHRSPAR2_C08,SPAR C08 health services provision,2021,87.0
+IND,India,IHRSPAR2_C08,SPAR C08 health services provision,2022,87.0
+IND,India,IHRSPAR2_C08,SPAR C08 health services provision,2023,87.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2000,31.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2001,34.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2002,36.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2003,38.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2004,41.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2005,43.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2006,45.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2007,47.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2008,49.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2009,51.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2010,53.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2011,54.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2012,56.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2013,57.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2014,60.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2015,62.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2016,63.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2017,64.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2018,63.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2019,65.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2020,66.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2021,67.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2022,68.0
+IND,India,UHC_INDEX_REPORTED,UHC service coverage index,2023,69.0
+IND,India,WHS4_100,DTP3 coverage %,2000,58.0
+IND,India,WHS4_100,DTP3 coverage %,2001,59.0
+IND,India,WHS4_100,DTP3 coverage %,2002,59.0
+IND,India,WHS4_100,DTP3 coverage %,2003,61.0
+IND,India,WHS4_100,DTP3 coverage %,2004,63.0
+IND,India,WHS4_100,DTP3 coverage %,2005,65.0
+IND,India,WHS4_100,DTP3 coverage %,2006,65.0
+IND,India,WHS4_100,DTP3 coverage %,2007,64.0
+IND,India,WHS4_100,DTP3 coverage %,2008,70.0
+IND,India,WHS4_100,DTP3 coverage %,2009,74.0
+IND,India,WHS4_100,DTP3 coverage %,2010,79.0
+IND,India,WHS4_100,DTP3 coverage %,2011,82.0
+IND,India,WHS4_100,DTP3 coverage %,2012,82.0
+IND,India,WHS4_100,DTP3 coverage %,2013,83.0
+IND,India,WHS4_100,DTP3 coverage %,2014,85.0
+IND,India,WHS4_100,DTP3 coverage %,2015,87.0
+IND,India,WHS4_100,DTP3 coverage %,2016,88.0
+IND,India,WHS4_100,DTP3 coverage %,2017,89.0
+IND,India,WHS4_100,DTP3 coverage %,2018,90.0
+IND,India,WHS4_100,DTP3 coverage %,2019,91.0
+IND,India,WHS4_100,DTP3 coverage %,2020,85.0
+IND,India,WHS4_100,DTP3 coverage %,2021,85.0
+IND,India,WHS4_100,DTP3 coverage %,2022,93.0
+IND,India,WHS4_100,DTP3 coverage %,2023,91.0
+IND,India,WHS4_100,DTP3 coverage %,2024,94.0
+IND,India,WHS4_100,DTP3 coverage %,2025,95.0
+IND,India,WHS6_102,Hospital beds per 10k,2000,21.317738375
+IND,India,WHS6_102,Hospital beds per 10k,2001,20.922673449
+IND,India,WHS6_102,Hospital beds per 10k,2002,20.547113878
+IND,India,WHS6_102,Hospital beds per 10k,2003,20.193821113
+IND,India,WHS6_102,Hospital beds per 10k,2004,19.852718776
+IND,India,WHS6_102,Hospital beds per 10k,2005,19.53146487
+IND,India,WHS6_102,Hospital beds per 10k,2006,19.228345084
+IND,India,WHS6_102,Hospital beds per 10k,2007,18.940937308
+IND,India,WHS6_102,Hospital beds per 10k,2008,18.670371691
+IND,India,WHS6_102,Hospital beds per 10k,2009,18.402337237
+IND,India,WHS6_102,Hospital beds per 10k,2010,18.136593751
+IND,India,WHS6_102,Hospital beds per 10k,2011,17.881441287
+IND,India,WHS6_102,Hospital beds per 10k,2012,17.637420584
+IND,India,WHS6_102,Hospital beds per 10k,2013,17.403925332
+IND,India,WHS6_102,Hospital beds per 10k,2014,17.185789919
+IND,India,WHS6_102,Hospital beds per 10k,2015,16.982006056
+IND,India,WHS6_102,Hospital beds per 10k,2016,16.780844303
+IND,India,WHS6_102,Hospital beds per 10k,2017,16.586913757
+IND,India,WHS6_102,Hospital beds per 10k,2018,16.405900591
+IND,India,WHS6_102,Hospital beds per 10k,2019,16.236161217
+IND,India,WHS6_102,Hospital beds per 10k,2020,16.078878857
+IND,India,WHS6_102,Hospital beds per 10k,2021,15.947148815
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2000,1.27856123
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2001,1.13873184
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2002,1.3330735
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2003,1.37088227
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2004,1.24548018
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2005,1.08696556
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2006,0.83623242
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2007,0.82912254
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2008,0.87098134
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2009,1.01281023
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2010,1.10954452
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2011,1.02417195
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2012,1.08205044
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2013,1.11564887
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2014,1.0150677
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2015,1.00400126
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2016,1.04308498
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2017,1.1320188
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2018,1.20929301
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2019,1.22948682
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2020,1.40071249
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2021,3.00353575
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2022,1.17839336
+KHM,Cambodia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2023,1.24129963
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2000,68.75363922
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2001,62.39422607
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2002,60.83033752
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2003,61.89794159
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2004,56.65092087
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2005,61.2433815
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2006,52.65016937
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2007,46.53351974
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2008,51.07616043
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2009,50.50344467
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2010,51.90946579
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2011,59.74188232
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2012,59.57627106
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2013,59.9816246
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2014,58.09806442
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2015,58.41831207
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2016,56.05389786
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2017,58.23595047
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2018,60.96880341
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2019,64.39125061
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2020,60.24520493
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2021,41.66812897
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2022,60.9710083
+KHM,Cambodia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2023,60.60118866
+KHM,Cambodia,HWF_0001,Medical doctors per 10k,1996,1.15
+KHM,Cambodia,HWF_0001,Medical doctors per 10k,1998,1.42
+KHM,Cambodia,HWF_0001,Medical doctors per 10k,2000,1.64
+KHM,Cambodia,HWF_0001,Medical doctors per 10k,2008,2.41
+KHM,Cambodia,HWF_0001,Medical doctors per 10k,2009,2.35
+KHM,Cambodia,HWF_0001,Medical doctors per 10k,2010,2.27
+KHM,Cambodia,HWF_0001,Medical doctors per 10k,2011,2.24
+KHM,Cambodia,HWF_0001,Medical doctors per 10k,2012,1.63
+KHM,Cambodia,HWF_0001,Medical doctors per 10k,2013,1.4
+KHM,Cambodia,HWF_0001,Medical doctors per 10k,2014,1.67
+KHM,Cambodia,HWF_0001,Medical doctors per 10k,2015,1.5
+KHM,Cambodia,HWF_0001,Medical doctors per 10k,2016,1.97
+KHM,Cambodia,HWF_0001,Medical doctors per 10k,2017,1.95
+KHM,Cambodia,HWF_0001,Medical doctors per 10k,2018,2.11
+KHM,Cambodia,HWF_0001,Medical doctors per 10k,2019,2.11
+KHM,Cambodia,HWF_0006,Nurses/midwives per 10k,1996,10.77
+KHM,Cambodia,HWF_0006,Nurses/midwives per 10k,1998,9.69
+KHM,Cambodia,HWF_0006,Nurses/midwives per 10k,2000,8.93
+KHM,Cambodia,HWF_0006,Nurses/midwives per 10k,2008,8.35
+KHM,Cambodia,HWF_0006,Nurses/midwives per 10k,2009,8.44
+KHM,Cambodia,HWF_0006,Nurses/midwives per 10k,2010,8.45
+KHM,Cambodia,HWF_0006,Nurses/midwives per 10k,2011,8.63
+KHM,Cambodia,HWF_0006,Nurses/midwives per 10k,2012,9.13
+KHM,Cambodia,HWF_0006,Nurses/midwives per 10k,2013,9.37
+KHM,Cambodia,HWF_0006,Nurses/midwives per 10k,2014,9.55
+KHM,Cambodia,HWF_0006,Nurses/midwives per 10k,2015,9.31
+KHM,Cambodia,HWF_0006,Nurses/midwives per 10k,2016,11.24
+KHM,Cambodia,HWF_0006,Nurses/midwives per 10k,2017,11.11
+KHM,Cambodia,HWF_0006,Nurses/midwives per 10k,2018,11.03
+KHM,Cambodia,HWF_0006,Nurses/midwives per 10k,2019,10.08
+KHM,Cambodia,IHRSPAR2_C01,SPAR C01 policy/legal,2021,70.0
+KHM,Cambodia,IHRSPAR2_C01,SPAR C01 policy/legal,2022,70.0
+KHM,Cambodia,IHRSPAR2_C01,SPAR C01 policy/legal,2023,80.0
+KHM,Cambodia,IHRSPAR2_C03,SPAR C03 financing,2021,50.0
+KHM,Cambodia,IHRSPAR2_C03,SPAR C03 financing,2022,50.0
+KHM,Cambodia,IHRSPAR2_C03,SPAR C03 financing,2023,60.0
+KHM,Cambodia,IHRSPAR2_C04,SPAR C04 laboratory,2021,60.0
+KHM,Cambodia,IHRSPAR2_C04,SPAR C04 laboratory,2022,72.0
+KHM,Cambodia,IHRSPAR2_C04,SPAR C04 laboratory,2023,80.0
+KHM,Cambodia,IHRSPAR2_C05,SPAR C05 surveillance,2021,80.0
+KHM,Cambodia,IHRSPAR2_C05,SPAR C05 surveillance,2022,90.0
+KHM,Cambodia,IHRSPAR2_C05,SPAR C05 surveillance,2023,90.0
+KHM,Cambodia,IHRSPAR2_C06,SPAR C06 human resources,2021,60.0
+KHM,Cambodia,IHRSPAR2_C06,SPAR C06 human resources,2022,60.0
+KHM,Cambodia,IHRSPAR2_C06,SPAR C06 human resources,2023,70.0
+KHM,Cambodia,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2021,40.0
+KHM,Cambodia,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2022,40.0
+KHM,Cambodia,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2023,73.0
+KHM,Cambodia,IHRSPAR2_C08,SPAR C08 health services provision,2021,53.0
+KHM,Cambodia,IHRSPAR2_C08,SPAR C08 health services provision,2022,67.0
+KHM,Cambodia,IHRSPAR2_C08,SPAR C08 health services provision,2023,67.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2000,26.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2001,27.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2002,29.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2003,31.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2004,33.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2005,35.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2006,37.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2007,39.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2008,41.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2009,43.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2010,45.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2011,47.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2012,49.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2013,49.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2014,51.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2015,52.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2016,55.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2017,57.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2018,56.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2019,57.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2020,57.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2021,59.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2022,60.0
+KHM,Cambodia,UHC_INDEX_REPORTED,UHC service coverage index,2023,62.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2000,59.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2001,60.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2002,54.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2003,69.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2004,85.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2005,82.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2006,80.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2007,82.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2008,91.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2009,94.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2010,90.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2011,91.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2012,90.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2013,86.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2014,90.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2015,91.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2016,91.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2017,90.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2018,89.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2019,88.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2020,86.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2021,86.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2022,84.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2023,84.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2024,83.0
+KHM,Cambodia,WHS4_100,DTP3 coverage %,2025,81.0
+KHM,Cambodia,WHS6_102,Hospital beds per 10k,2002,6.026332123
+KHM,Cambodia,WHS6_102,Hospital beds per 10k,2005,5.911808027
+KHM,Cambodia,WHS6_102,Hospital beds per 10k,2008,6.394146247
+KHM,Cambodia,WHS6_102,Hospital beds per 10k,2010,7.990631094
+KHM,Cambodia,WHS6_102,Hospital beds per 10k,2013,8.248401538
+KHM,Cambodia,WHS6_102,Hospital beds per 10k,2015,8.349092961
+KHM,Cambodia,WHS6_102,Hospital beds per 10k,2018,7.301596938
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2000,2.20320439
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2001,2.13245368
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2002,2.15791655
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2003,2.00852442
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2004,2.12875676
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2005,2.04192138
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2006,1.96220529
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2007,1.85378098
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2008,1.66602755
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2009,1.64707983
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2010,1.51292467
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2011,1.52385986
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2012,1.39617562
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2013,1.6775682
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2014,1.55114651
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2015,1.61882555
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2016,1.56008303
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2017,1.36585641
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2018,1.66403663
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2019,1.73423195
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2020,2.15588403
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2021,2.2609117
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2022,1.52578461
+LKA,Sri Lanka,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2023,1.23655903
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2000,40.04385376
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2001,41.09132385
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2002,40.45339584
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2003,37.60930634
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2004,41.03234863
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2005,40.50283051
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2006,40.94941711
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2007,44.8517952
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2008,50.640728
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2009,53.28553009
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2010,53.29795074
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2011,51.22101593
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2012,51.93098831
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2013,48.93375397
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2014,48.68254089
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2015,48.93215179
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2016,50.1216011
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2017,49.25233078
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2018,46.81987
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2019,44.29746628
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2020,37.50995255
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2021,40.73859024
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2022,45.28808212
+LKA,Sri Lanka,GHED_OOPSCHE_SHA2011,OOP % of CHE,2023,54.81069946
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,1991,1.48
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,1992,1.75
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,1993,2.18
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,1994,1.94
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,1995,2.3
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,1996,2.86
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,1997,3.08
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,1998,3.46
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,1999,3.69
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2000,4.13
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2001,4.28
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2004,5.22
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2005,5.04
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2006,5.05
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2007,5.38
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2008,6.05
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2009,6.62
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2010,7.03
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2011,7.18
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2012,7.42
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2013,7.72
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2014,8.07
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2015,8.3
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2016,8.56
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2017,8.87
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2018,9.58
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2019,10.98
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2020,11.67
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2021,11.44
+LKA,Sri Lanka,HWF_0001,Medical doctors per 10k,2023,11.36
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,1990,7.81
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,1991,8.53
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,1992,9.2
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,1993,10.84
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,1994,10.11
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,1995,11.27
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,1996,7.78
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,1997,7.57
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,1998,7.86
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,1999,7.42
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2000,11.6
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2001,8.06
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2002,10.22
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2004,16.54
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2005,13.61
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2006,16.18
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2007,19.85
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2008,14.57
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2009,15.08
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2010,16.94
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2011,17.7
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2012,17.77
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2013,17.8
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2014,18.46
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2015,18.87
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2016,18.69
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2017,19.1
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2018,20.8
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2019,21.51
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2020,23.68
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2021,23.4
+LKA,Sri Lanka,HWF_0006,Nurses/midwives per 10k,2023,22.58
+LKA,Sri Lanka,IHRSPAR2_C01,SPAR C01 policy/legal,2021,40.0
+LKA,Sri Lanka,IHRSPAR2_C01,SPAR C01 policy/legal,2022,40.0
+LKA,Sri Lanka,IHRSPAR2_C01,SPAR C01 policy/legal,2023,40.0
+LKA,Sri Lanka,IHRSPAR2_C03,SPAR C03 financing,2021,50.0
+LKA,Sri Lanka,IHRSPAR2_C03,SPAR C03 financing,2022,50.0
+LKA,Sri Lanka,IHRSPAR2_C03,SPAR C03 financing,2023,50.0
+LKA,Sri Lanka,IHRSPAR2_C04,SPAR C04 laboratory,2021,40.0
+LKA,Sri Lanka,IHRSPAR2_C04,SPAR C04 laboratory,2022,52.0
+LKA,Sri Lanka,IHRSPAR2_C04,SPAR C04 laboratory,2023,60.0
+LKA,Sri Lanka,IHRSPAR2_C05,SPAR C05 surveillance,2021,100.0
+LKA,Sri Lanka,IHRSPAR2_C05,SPAR C05 surveillance,2022,100.0
+LKA,Sri Lanka,IHRSPAR2_C05,SPAR C05 surveillance,2023,100.0
+LKA,Sri Lanka,IHRSPAR2_C06,SPAR C06 human resources,2021,90.0
+LKA,Sri Lanka,IHRSPAR2_C06,SPAR C06 human resources,2022,80.0
+LKA,Sri Lanka,IHRSPAR2_C06,SPAR C06 human resources,2023,90.0
+LKA,Sri Lanka,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2021,80.0
+LKA,Sri Lanka,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2022,87.0
+LKA,Sri Lanka,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2023,87.0
+LKA,Sri Lanka,IHRSPAR2_C08,SPAR C08 health services provision,2021,80.0
+LKA,Sri Lanka,IHRSPAR2_C08,SPAR C08 health services provision,2022,80.0
+LKA,Sri Lanka,IHRSPAR2_C08,SPAR C08 health services provision,2023,80.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2000,61.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2001,60.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2002,61.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2003,63.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2004,64.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2005,64.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2006,65.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2007,66.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2008,65.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2009,66.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2010,67.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2011,67.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2012,68.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2013,68.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2014,69.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2015,69.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2016,70.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2017,70.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2018,68.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2019,70.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2020,71.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2021,72.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2022,72.0
+LKA,Sri Lanka,UHC_INDEX_REPORTED,UHC service coverage index,2023,72.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2000,99.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2001,98.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2002,98.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2003,99.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2004,97.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2005,99.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2006,98.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2007,98.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2008,98.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2009,97.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2010,99.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2011,99.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2012,99.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2013,99.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2014,99.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2015,99.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2016,99.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2017,99.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2018,99.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2019,99.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2020,96.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2021,96.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2022,98.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2023,99.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2024,97.0
+LKA,Sri Lanka,WHS4_100,DTP3 coverage %,2025,96.0
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2000,29.558301725
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2001,30.235155861
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2002,28.983500802
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2003,30.871831777
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2004,28.576822089
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2005,30.467145921
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2006,32.931715186
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2007,33.521457021
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2008,32.93458644
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2009,34.130133504
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2010,34.726605927
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2011,35.193874032
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2012,35.94186928
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2013,36.63262454
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2014,37.176084136
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2015,37.082877454
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2016,37.232841356
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2017,37.702275936
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2018,38.074666124
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2019,38.637600777
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2020,38.684841273
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2021,39.752643756
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2022,39.370763213
+LKA,Sri Lanka,WHS6_102,Hospital beds per 10k,2023,39.349430184
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2000,1.17325473
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2001,1.35141993
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2002,1.36677563
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2003,1.51884329
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2004,1.45687652
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2005,1.36280441
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2006,1.67488027
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2007,1.62477779
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2008,1.59730816
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2009,1.81166101
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2010,1.67910564
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2011,1.76482272
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2012,1.86487269
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2013,1.89357972
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2014,2.03088164
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2015,2.03347373
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2016,1.88870478
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2017,1.92218649
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2018,1.92697287
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2019,2.00959897
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2020,2.17598939
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2021,2.45898366
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2022,1.97318363
+MYS,Malaysia,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2023,1.97993755
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2000,40.70201111
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2001,35.69312286
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2002,34.64449692
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2003,34.49882889
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2004,36.10705185
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2005,38.04380035
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2006,34.73173904
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2007,35.12305069
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2008,35.536026
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2009,32.19156265
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2010,34.11669922
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2011,34.01270676
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2012,33.03797531
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2013,33.66908646
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2014,33.0446701
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2015,33.70749283
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2016,35.94845581
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2017,35.93440247
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2018,36.64058304
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2019,36.0626564
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2020,34.24639893
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2021,32.08134842
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2022,37.8710556
+MYS,Malaysia,GHED_OOPSCHE_SHA2011,OOP % of CHE,2023,37.09352112
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,1990,3.93
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,1991,3.92
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,1992,4.1
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,1993,4.29
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,1994,4.46
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,1995,4.73
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,1996,4.89
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,1997,6.67
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,1998,6.86
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,1999,6.91
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2000,6.8
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2001,6.86
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2002,7.24
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2003,7.37
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2004,7.22
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2005,7.78
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2006,8.3
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2007,8.79
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2008,9.11
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2009,10.86
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2010,11.51
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2011,12.55
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2012,13.05
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2013,15.55
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2014,14.84
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2015,14.89
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2016,15.76
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2017,17.87
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2018,18.58
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2019,20.21
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2020,21.83
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2021,22.68
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2022,22.9
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2023,23.41
+MYS,Malaysia,HWF_0001,Medical doctors per 10k,2024,22.72
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,1990,14.83
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,1991,14.45
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,1992,14.73
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,1993,15.37
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,1994,16.3
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,1995,14.18
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,1996,14.3
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,1997,14.33
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,1998,18.38
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,1999,19.27
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2000,20.49
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2001,21.1
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2002,21.5
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2003,22.46
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2004,23.78
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2005,25.38
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2006,26.58
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2007,26.03
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2008,28.04
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2009,29.8
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2010,32.37
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2011,34.36
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2012,37.26
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2013,38.37
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2014,39.12
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2015,40.13
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2016,40.17
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2017,40.43
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2018,39.46
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2019,39.25
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2020,39.03
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2021,39.68
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2022,40.26
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2023,40.54
+MYS,Malaysia,HWF_0006,Nurses/midwives per 10k,2024,40.3
+MYS,Malaysia,IHRSPAR2_C01,SPAR C01 policy/legal,2021,80.0
+MYS,Malaysia,IHRSPAR2_C01,SPAR C01 policy/legal,2022,80.0
+MYS,Malaysia,IHRSPAR2_C01,SPAR C01 policy/legal,2023,80.0
+MYS,Malaysia,IHRSPAR2_C03,SPAR C03 financing,2021,80.0
+MYS,Malaysia,IHRSPAR2_C03,SPAR C03 financing,2022,80.0
+MYS,Malaysia,IHRSPAR2_C03,SPAR C03 financing,2023,80.0
+MYS,Malaysia,IHRSPAR2_C04,SPAR C04 laboratory,2021,80.0
+MYS,Malaysia,IHRSPAR2_C04,SPAR C04 laboratory,2022,88.0
+MYS,Malaysia,IHRSPAR2_C04,SPAR C04 laboratory,2023,88.0
+MYS,Malaysia,IHRSPAR2_C05,SPAR C05 surveillance,2021,80.0
+MYS,Malaysia,IHRSPAR2_C05,SPAR C05 surveillance,2022,80.0
+MYS,Malaysia,IHRSPAR2_C05,SPAR C05 surveillance,2023,80.0
+MYS,Malaysia,IHRSPAR2_C06,SPAR C06 human resources,2021,100.0
+MYS,Malaysia,IHRSPAR2_C06,SPAR C06 human resources,2022,100.0
+MYS,Malaysia,IHRSPAR2_C06,SPAR C06 human resources,2023,100.0
+MYS,Malaysia,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2021,87.0
+MYS,Malaysia,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2022,87.0
+MYS,Malaysia,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2023,93.0
+MYS,Malaysia,IHRSPAR2_C08,SPAR C08 health services provision,2021,100.0
+MYS,Malaysia,IHRSPAR2_C08,SPAR C08 health services provision,2022,100.0
+MYS,Malaysia,IHRSPAR2_C08,SPAR C08 health services provision,2023,100.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2000,71.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2001,71.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2002,72.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2003,72.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2004,73.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2005,74.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2006,74.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2007,75.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2008,75.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2009,76.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2010,77.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2011,78.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2012,78.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2013,79.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2014,79.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2015,80.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2016,80.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2017,80.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2018,80.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2019,80.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2020,80.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2021,79.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2022,80.0
+MYS,Malaysia,UHC_INDEX_REPORTED,UHC service coverage index,2023,80.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2000,98.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2001,96.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2002,94.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2003,96.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2004,95.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2005,96.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2006,95.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2007,97.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2008,97.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2009,97.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2010,96.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2011,96.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2012,97.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2013,97.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2014,97.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2015,99.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2016,98.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2017,99.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2018,99.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2019,98.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2020,98.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2021,95.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2022,97.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2023,95.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2024,93.0
+MYS,Malaysia,WHS4_100,DTP3 coverage %,2025,95.0
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2000,20.492151235
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2001,20.14023654
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2002,19.61831395
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2003,19.208573233
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2004,18.934327042
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2005,18.760975931
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2006,19.025729856
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2007,19.083734083
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2008,19.264379415
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2009,19.163883237
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2010,19.111681266
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2011,18.99353111
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2012,19.037290266
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2013,19.0748608
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2014,18.542074386
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2015,18.602240459
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2016,18.768661315
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2017,18.866260825
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2018,19.028309807
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2019,18.991590758
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2020,19.329848995
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2021,19.67773207
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2022,19.435376824
+MYS,Malaysia,WHS6_102,Hospital beds per 10k,2023,19.628884298
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2000,1.3564229
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2001,1.15623665
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2002,0.97705829
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2003,1.11422062
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2004,1.08843267
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2005,1.23873734
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2006,1.21229136
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2007,1.1753726
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2008,1.16428423
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2009,1.27640796
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2010,1.31791425
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2011,1.06190181
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2012,1.09802592
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2013,1.1204468
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2014,1.26327145
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2015,1.46860588
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2016,1.47373402
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2017,1.48271859
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2018,1.53632784
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2019,1.69175851
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2020,2.33325934
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2021,2.6710124
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2022,2.3236084
+PHL,Philippines,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2023,2.16258121
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2000,41.19496918
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2001,44.61747742
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2002,47.76664352
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2003,47.70053482
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2004,47.77958298
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2005,52.10651398
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2006,54.03545761
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2007,55.9674263
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2008,57.44991684
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2009,55.57599258
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2010,54.84585953
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2011,58.89309311
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2012,58.31450272
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2013,57.57440186
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2014,52.37667847
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2015,51.1785965
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2016,50.49208069
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2017,50.14805984
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2018,50.4368515
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2019,48.78687668
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2020,44.56456757
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2021,41.21797943
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2022,44.63491821
+PHL,Philippines,GHED_OOPSCHE_SHA2011,OOP % of CHE,2023,44.36006165
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2000,11.94
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2001,11.94
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2002,10.88
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2003,12.01
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2004,10.86
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2005,12.05
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2006,12.14
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2007,12.21
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2008,12.32
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2009,12.37
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2010,5.43
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2011,5.54
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2012,5.64
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2013,5.74
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2014,5.89
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2015,6.09
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2016,6.31
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2017,6.6
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2018,6.95
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2019,7.32
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2020,7.52
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2021,7.92
+PHL,Philippines,HWF_0001,Medical doctors per 10k,2024,8.69
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2000,42.28
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2001,42.07
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2002,41.8
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2003,41.53
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2004,41.56
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2005,41.93
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2006,43.25
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2007,45.68
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2008,50.23
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2009,55.29
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2010,26.47
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2011,37.1
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2012,40.61
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2013,42.42
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2014,43.73
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2015,45.28
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2016,46.18
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2017,46.71
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2018,47.34
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2019,47.89
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2020,47.81
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2021,47.88
+PHL,Philippines,HWF_0006,Nurses/midwives per 10k,2024,52.87
+PHL,Philippines,IHRSPAR2_C01,SPAR C01 policy/legal,2021,60.0
+PHL,Philippines,IHRSPAR2_C01,SPAR C01 policy/legal,2022,60.0
+PHL,Philippines,IHRSPAR2_C01,SPAR C01 policy/legal,2023,60.0
+PHL,Philippines,IHRSPAR2_C03,SPAR C03 financing,2021,80.0
+PHL,Philippines,IHRSPAR2_C03,SPAR C03 financing,2022,70.0
+PHL,Philippines,IHRSPAR2_C03,SPAR C03 financing,2023,70.0
+PHL,Philippines,IHRSPAR2_C04,SPAR C04 laboratory,2021,56.0
+PHL,Philippines,IHRSPAR2_C04,SPAR C04 laboratory,2022,56.0
+PHL,Philippines,IHRSPAR2_C04,SPAR C04 laboratory,2023,52.0
+PHL,Philippines,IHRSPAR2_C05,SPAR C05 surveillance,2021,60.0
+PHL,Philippines,IHRSPAR2_C05,SPAR C05 surveillance,2022,70.0
+PHL,Philippines,IHRSPAR2_C05,SPAR C05 surveillance,2023,70.0
+PHL,Philippines,IHRSPAR2_C06,SPAR C06 human resources,2021,60.0
+PHL,Philippines,IHRSPAR2_C06,SPAR C06 human resources,2022,60.0
+PHL,Philippines,IHRSPAR2_C06,SPAR C06 human resources,2023,60.0
+PHL,Philippines,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2021,87.0
+PHL,Philippines,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2022,60.0
+PHL,Philippines,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2023,60.0
+PHL,Philippines,IHRSPAR2_C08,SPAR C08 health services provision,2021,33.0
+PHL,Philippines,IHRSPAR2_C08,SPAR C08 health services provision,2022,67.0
+PHL,Philippines,IHRSPAR2_C08,SPAR C08 health services provision,2023,80.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2000,56.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2001,56.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2002,57.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2003,57.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2004,57.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2005,58.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2006,59.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2007,59.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2008,62.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2009,61.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2010,59.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2011,63.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2012,64.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2013,65.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2014,66.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2015,66.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2016,68.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2017,68.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2018,67.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2019,66.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2020,69.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2021,68.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2022,69.0
+PHL,Philippines,UHC_INDEX_REPORTED,UHC service coverage index,2023,69.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2000,78.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2001,79.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2002,79.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2003,84.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2004,88.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2005,89.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2006,88.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2007,87.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2008,87.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2009,88.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2010,88.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2011,89.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2012,89.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2013,85.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2014,80.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2015,76.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2016,84.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2017,84.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2018,84.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2019,84.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2020,83.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2021,69.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2022,84.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2023,89.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2024,71.0
+PHL,Philippines,WHS4_100,DTP3 coverage %,2025,71.0
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2000,9.900609356
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2001,9.759526635
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2002,10.282549821
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2003,9.98278817
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2004,9.508242618
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2005,9.833443844
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2006,10.28075458
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2007,10.151613206
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2008,15.15753757
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2009,10.170234216
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2010,10.18807619
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2011,10.373072329
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2012,10.11694355
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2013,9.495442612
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2014,9.224597512
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2015,9.273879787
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2016,10.341617305
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2017,9.782029165
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2018,9.422896121
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2019,9.775128191
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2020,9.862843098
+PHL,Philippines,WHS6_102,Hospital beds per 10k,2021,9.694613786
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2000,1.21474111
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2001,0.88201147
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2002,1.05214119
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2003,1.3372829
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2004,1.02267361
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2005,1.00069571
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2006,0.99547803
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2007,0.95031685
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2008,1.19189203
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2009,1.18541074
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2010,1.14910603
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2011,1.17214501
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2012,1.30787134
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2013,1.53696907
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2014,1.74364483
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2015,1.96816146
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2016,2.07529497
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2017,2.10866928
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2018,2.04126763
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2019,2.2847712
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2020,3.41540074
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2021,3.13151574
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2022,2.60371685
+SGP,Singapore,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2023,2.62583375
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2000,48.17884064
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2001,55.58973694
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2002,53.08752823
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2003,48.45797729
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2004,51.00744247
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2005,49.99448395
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2006,48.83466721
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2007,48.46814346
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2008,46.45778656
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2009,43.34909058
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2010,41.51569366
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2011,39.56052399
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2012,37.69818878
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2013,36.19911575
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2014,33.30002975
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2015,33.08611679
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2016,32.62351227
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2017,32.06229782
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2018,29.09645271
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2019,28.39058113
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2020,24.358181
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2021,23.46938705
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2022,23.48412514
+SGP,Singapore,GHED_OOPSCHE_SHA2011,OOP % of CHE,2023,25.41850281
+SGP,Singapore,HWF_0001,Medical doctors per 10k,1999,13.43
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2000,13.37
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2001,13.89
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2002,14.09
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2003,14.27
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2004,14.35
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2005,14.59
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2006,14.68
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2007,15.04
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2008,15.29
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2009,15.56
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2010,16.72
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2011,17.5
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2012,18.22
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2013,19.2
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2014,20.37
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2015,21.4
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2016,22.12
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2017,22.63
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2018,23.15
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2019,23.76
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2020,24.95
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2021,26.04
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2022,26.25
+SGP,Singapore,HWF_0001,Medical doctors per 10k,2023,26.7
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,1999,40.2
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2000,32.42
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2001,32.85
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2002,33.77
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2003,35.75
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2004,36.75
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2005,38.15
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2006,40.12
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2007,40.04
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2008,41.47
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2009,44.56
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2010,48.41
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2011,52.02
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2012,55.57
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2013,56.69
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2014,58.17
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2015,61.04
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2016,62.41
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2017,63.76
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2018,64.51
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2019,65.72
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2020,68.2
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2021,69.66
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2022,69.03
+SGP,Singapore,HWF_0006,Nurses/midwives per 10k,2023,70.9
+SGP,Singapore,IHRSPAR2_C01,SPAR C01 policy/legal,2021,100.0
+SGP,Singapore,IHRSPAR2_C01,SPAR C01 policy/legal,2022,100.0
+SGP,Singapore,IHRSPAR2_C01,SPAR C01 policy/legal,2023,100.0
+SGP,Singapore,IHRSPAR2_C03,SPAR C03 financing,2021,100.0
+SGP,Singapore,IHRSPAR2_C03,SPAR C03 financing,2022,100.0
+SGP,Singapore,IHRSPAR2_C03,SPAR C03 financing,2023,100.0
+SGP,Singapore,IHRSPAR2_C04,SPAR C04 laboratory,2021,100.0
+SGP,Singapore,IHRSPAR2_C04,SPAR C04 laboratory,2022,100.0
+SGP,Singapore,IHRSPAR2_C04,SPAR C04 laboratory,2023,100.0
+SGP,Singapore,IHRSPAR2_C05,SPAR C05 surveillance,2021,100.0
+SGP,Singapore,IHRSPAR2_C05,SPAR C05 surveillance,2022,100.0
+SGP,Singapore,IHRSPAR2_C05,SPAR C05 surveillance,2023,100.0
+SGP,Singapore,IHRSPAR2_C06,SPAR C06 human resources,2021,90.0
+SGP,Singapore,IHRSPAR2_C06,SPAR C06 human resources,2022,90.0
+SGP,Singapore,IHRSPAR2_C06,SPAR C06 human resources,2023,90.0
+SGP,Singapore,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2021,93.0
+SGP,Singapore,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2022,93.0
+SGP,Singapore,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2023,93.0
+SGP,Singapore,IHRSPAR2_C08,SPAR C08 health services provision,2021,100.0
+SGP,Singapore,IHRSPAR2_C08,SPAR C08 health services provision,2022,100.0
+SGP,Singapore,IHRSPAR2_C08,SPAR C08 health services provision,2023,100.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2000,85.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2001,85.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2002,85.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2003,86.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2004,86.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2005,86.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2006,86.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2007,86.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2008,87.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2009,87.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2010,87.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2011,87.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2012,87.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2013,88.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2014,88.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2015,88.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2016,88.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2017,88.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2018,88.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2019,88.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2020,88.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2021,88.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2022,88.0
+SGP,Singapore,UHC_INDEX_REPORTED,UHC service coverage index,2023,88.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2000,98.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2001,96.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2002,94.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2003,96.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2004,95.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2005,96.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2006,95.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2007,97.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2008,97.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2009,97.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2010,96.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2011,96.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2012,97.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2013,97.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2014,96.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2015,96.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2016,97.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2017,96.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2018,97.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2019,97.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2020,98.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2021,98.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2022,97.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2023,98.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2024,97.0
+SGP,Singapore,WHS4_100,DTP3 coverage %,2025,97.0
+SGP,Singapore,WHS6_102,Hospital beds per 10k,2006,25.12103296
+SGP,Singapore,WHS6_102,Hospital beds per 10k,2007,24.035595655
+SGP,Singapore,WHS6_102,Hospital beds per 10k,2008,23.146650445
+SGP,Singapore,WHS6_102,Hospital beds per 10k,2009,22.55375486
+SGP,Singapore,WHS6_102,Hospital beds per 10k,2010,21.865188634
+SGP,Singapore,WHS6_102,Hospital beds per 10k,2011,21.446316093
+SGP,Singapore,WHS6_102,Hospital beds per 10k,2012,21.870858597
+SGP,Singapore,WHS6_102,Hospital beds per 10k,2013,21.912180822
+SGP,Singapore,WHS6_102,Hospital beds per 10k,2014,22.494003645
+SGP,Singapore,WHS6_102,Hospital beds per 10k,2015,23.994890453
+SGP,Singapore,WHS6_102,Hospital beds per 10k,2016,24.975183477
+SGP,Singapore,WHS6_102,Hospital beds per 10k,2017,24.897895965
+SGP,Singapore,WHS6_102,Hospital beds per 10k,2018,25.830763243
+SGP,Singapore,WHS6_102,Hospital beds per 10k,2019,26.910368032
+SGP,Singapore,WHS6_102,Hospital beds per 10k,2020,27.693206108
+SGP,Singapore,WHS6_102,Hospital beds per 10k,2021,28.366694655
+SGP,Singapore,WHS6_102,Hospital beds per 10k,2022,28.27312683
+SGP,Singapore,WHS6_102,Hospital beds per 10k,2023,28.118399224
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2000,1.71153057
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2001,1.66487634
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2002,2.07636881
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2003,2.04556918
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2004,2.01255655
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2005,2.013062
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2006,2.2303164
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2007,2.41405702
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2008,2.60726309
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2009,2.64681911
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2010,2.50096011
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2011,2.72706866
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2012,2.68024039
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2013,2.62275028
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2014,2.78856063
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2015,2.74870157
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2016,2.85139871
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2017,2.7754643
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2018,2.74278641
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2019,2.71524906
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2020,3.06593847
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2021,3.62646127
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2022,3.8927443
+THA,Thailand,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2023,3.5342176
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2000,34.18558884
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2001,33.98860931
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2002,27.89708328
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2003,27.1678009
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2004,26.40885162
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2005,27.58306313
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2006,17.65686226
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2007,14.81379414
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2008,14.7017622
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2009,15.90248966
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2010,14.4973793
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2011,13.00871277
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2012,13.42186832
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2013,12.54023266
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2014,12.85608101
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2015,11.91061687
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2016,10.8130331
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2017,11.83790398
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2018,10.11109638
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2019,8.66960335
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2020,10.54276752
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2021,9.04449558
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2022,9.21155357
+THA,Thailand,GHED_OOPSCHE_SHA2011,OOP % of CHE,2023,9.93404865
+THA,Thailand,HWF_0001,Medical doctors per 10k,1991,2.3
+THA,Thailand,HWF_0001,Medical doctors per 10k,1993,2.38
+THA,Thailand,HWF_0001,Medical doctors per 10k,1995,2.4
+THA,Thailand,HWF_0001,Medical doctors per 10k,1997,2.73
+THA,Thailand,HWF_0001,Medical doctors per 10k,1998,2.92
+THA,Thailand,HWF_0001,Medical doctors per 10k,1999,2.91
+THA,Thailand,HWF_0001,Medical doctors per 10k,2001,2.98
+THA,Thailand,HWF_0001,Medical doctors per 10k,2002,2.95
+THA,Thailand,HWF_0001,Medical doctors per 10k,2004,2.89
+THA,Thailand,HWF_0001,Medical doctors per 10k,2006,2.84
+THA,Thailand,HWF_0001,Medical doctors per 10k,2007,2.92
+THA,Thailand,HWF_0001,Medical doctors per 10k,2008,3.11
+THA,Thailand,HWF_0001,Medical doctors per 10k,2009,3.33
+THA,Thailand,HWF_0001,Medical doctors per 10k,2010,3.83
+THA,Thailand,HWF_0001,Medical doctors per 10k,2012,3.65
+THA,Thailand,HWF_0001,Medical doctors per 10k,2013,3.86
+THA,Thailand,HWF_0001,Medical doctors per 10k,2014,4.35
+THA,Thailand,HWF_0001,Medical doctors per 10k,2015,4.53
+THA,Thailand,HWF_0001,Medical doctors per 10k,2016,4.44
+THA,Thailand,HWF_0001,Medical doctors per 10k,2017,4.97
+THA,Thailand,HWF_0001,Medical doctors per 10k,2018,5.18
+THA,Thailand,HWF_0001,Medical doctors per 10k,2019,5.48
+THA,Thailand,HWF_0001,Medical doctors per 10k,2020,5.09
+THA,Thailand,HWF_0001,Medical doctors per 10k,2021,5.41
+THA,Thailand,HWF_0001,Medical doctors per 10k,2022,5.45
+THA,Thailand,HWF_0001,Medical doctors per 10k,2023,5.91
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,1991,7.31
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,1993,8.13
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,1995,9.18
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,1997,9.28
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,1998,10.36
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,1999,10.92
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2001,12.26
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2002,13.18
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2004,14.78
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2006,15.27
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2007,15.07
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2008,15.59
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2009,16.12
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2010,20.23
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2012,19.31
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2013,19.79
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2014,22.62
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2015,23.07
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2016,22.55
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2017,23.45
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2018,24.21
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2019,24.84
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2020,25.29
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2021,26.34
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2022,26.51
+THA,Thailand,HWF_0006,Nurses/midwives per 10k,2023,35.72
+THA,Thailand,IHRSPAR2_C01,SPAR C01 policy/legal,2021,100.0
+THA,Thailand,IHRSPAR2_C01,SPAR C01 policy/legal,2022,90.0
+THA,Thailand,IHRSPAR2_C01,SPAR C01 policy/legal,2023,90.0
+THA,Thailand,IHRSPAR2_C03,SPAR C03 financing,2021,80.0
+THA,Thailand,IHRSPAR2_C03,SPAR C03 financing,2022,80.0
+THA,Thailand,IHRSPAR2_C03,SPAR C03 financing,2023,80.0
+THA,Thailand,IHRSPAR2_C04,SPAR C04 laboratory,2021,88.0
+THA,Thailand,IHRSPAR2_C04,SPAR C04 laboratory,2022,84.0
+THA,Thailand,IHRSPAR2_C04,SPAR C04 laboratory,2023,84.0
+THA,Thailand,IHRSPAR2_C05,SPAR C05 surveillance,2021,100.0
+THA,Thailand,IHRSPAR2_C05,SPAR C05 surveillance,2022,100.0
+THA,Thailand,IHRSPAR2_C05,SPAR C05 surveillance,2023,100.0
+THA,Thailand,IHRSPAR2_C06,SPAR C06 human resources,2021,80.0
+THA,Thailand,IHRSPAR2_C06,SPAR C06 human resources,2022,80.0
+THA,Thailand,IHRSPAR2_C06,SPAR C06 human resources,2023,80.0
+THA,Thailand,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2021,93.0
+THA,Thailand,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2022,100.0
+THA,Thailand,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2023,100.0
+THA,Thailand,IHRSPAR2_C08,SPAR C08 health services provision,2021,100.0
+THA,Thailand,IHRSPAR2_C08,SPAR C08 health services provision,2022,87.0
+THA,Thailand,IHRSPAR2_C08,SPAR C08 health services provision,2023,93.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2000,68.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2001,69.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2002,70.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2003,71.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2004,71.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2005,72.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2006,72.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2007,73.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2008,73.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2009,73.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2010,75.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2011,78.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2012,78.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2013,79.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2014,79.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2015,80.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2016,81.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2017,81.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2018,80.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2019,81.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2020,81.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2021,82.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2022,82.0
+THA,Thailand,UHC_INDEX_REPORTED,UHC service coverage index,2023,82.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2000,97.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2001,96.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2002,96.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2003,98.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2004,98.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2005,98.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2006,98.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2007,98.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2008,99.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2009,99.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2010,99.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2011,99.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2012,99.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2013,99.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2014,99.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2015,99.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2016,99.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2017,99.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2018,97.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2019,97.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2020,97.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2021,92.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2022,92.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2023,92.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2024,92.0
+THA,Thailand,WHS4_100,DTP3 coverage %,2025,92.0
+THA,Thailand,WHS6_102,Hospital beds per 10k,2000,21.616524871
+THA,Thailand,WHS6_102,Hospital beds per 10k,2001,21.6330768
+THA,Thailand,WHS6_102,Hospital beds per 10k,2002,20.9211857
+THA,Thailand,WHS6_102,Hospital beds per 10k,2003,20.753168819
+THA,Thailand,WHS6_102,Hospital beds per 10k,2004,20.357650513
+THA,Thailand,WHS6_102,Hospital beds per 10k,2005,20.134080373
+THA,Thailand,WHS6_102,Hospital beds per 10k,2006,20.244507222
+THA,Thailand,WHS6_102,Hospital beds per 10k,2007,20.73696599
+THA,Thailand,WHS6_102,Hospital beds per 10k,2008,18.613768895
+THA,Thailand,WHS6_102,Hospital beds per 10k,2009,17.25868116
+THA,Thailand,WHS6_102,Hospital beds per 10k,2010,19.554693386
+THA,Thailand,WHS6_102,Hospital beds per 10k,2011,20.879266333
+THA,Thailand,WHS6_102,Hospital beds per 10k,2012,21.169682493
+THA,Thailand,WHS6_102,Hospital beds per 10k,2013,21.666225333
+THA,Thailand,WHS6_102,Hospital beds per 10k,2014,21.412387574
+THA,Thailand,WHS6_102,Hospital beds per 10k,2015,21.281729035
+THA,Thailand,WHS6_102,Hospital beds per 10k,2016,19.968998518
+THA,Thailand,WHS6_102,Hospital beds per 10k,2017,21.197106219
+THA,Thailand,WHS6_102,Hospital beds per 10k,2018,20.96514628
+THA,Thailand,WHS6_102,Hospital beds per 10k,2019,22.094658216
+THA,Thailand,WHS6_102,Hospital beds per 10k,2020,23.214761347
+THA,Thailand,WHS6_102,Hospital beds per 10k,2021,23.3611061
+THA,Thailand,WHS6_102,Hospital beds per 10k,2022,23.885164635
+THA,Thailand,WHS6_102,Hospital beds per 10k,2023,23.8986295
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2000,1.68673158
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2001,1.57415044
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2002,1.7021997
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2003,1.58931124
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2004,1.68924272
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2005,1.78806961
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2006,1.80019891
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2007,1.76966417
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2008,1.73616052
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2009,1.71152484
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2010,2.04132986
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2011,1.93289721
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2012,2.2328434
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2013,1.99598992
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2014,2.07598686
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2015,2.05326915
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2016,2.1333859
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2017,2.17300439
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2018,2.09256196
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2019,2.02046871
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2020,1.79064679
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2021,1.96029603
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2022,1.97061062
+VNM,Viet Nam,GHED_GGHE-DGDP_SHA2011,Govt health exp % GDP,2023,2.02070236
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2000,34.58065033
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2001,29.7014904
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2002,34.54223251
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2003,34.54283524
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2004,34.6751709
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2005,34.64176559
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2006,34.69738388
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2007,34.66907883
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2008,34.57612991
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2009,34.63538361
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2010,34.67405701
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2011,34.68690491
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2012,40.77892303
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2013,41.58710098
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2014,41.02820969
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2015,42.13227844
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2016,41.35647964
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2017,42.58786774
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2018,44.58100891
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2019,45.11730576
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2020,42.40335083
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2021,40.46375656
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2022,39.62643814
+VNM,Viet Nam,GHED_OOPSCHE_SHA2011,OOP % of CHE,2023,39.20284653
+VNM,Viet Nam,HWF_0001,Medical doctors per 10k,2001,5.43
+VNM,Viet Nam,HWF_0001,Medical doctors per 10k,2002,5.71
+VNM,Viet Nam,HWF_0001,Medical doctors per 10k,2005,6.35
+VNM,Viet Nam,HWF_0001,Medical doctors per 10k,2006,6.43
+VNM,Viet Nam,HWF_0001,Medical doctors per 10k,2007,6.55
+VNM,Viet Nam,HWF_0001,Medical doctors per 10k,2008,6.73
+VNM,Viet Nam,HWF_0001,Medical doctors per 10k,2009,7.03
+VNM,Viet Nam,HWF_0001,Medical doctors per 10k,2010,7.14
+VNM,Viet Nam,HWF_0001,Medical doctors per 10k,2012,8.24
+VNM,Viet Nam,HWF_0001,Medical doctors per 10k,2014,7.83
+VNM,Viet Nam,HWF_0001,Medical doctors per 10k,2015,7.95
+VNM,Viet Nam,HWF_0001,Medical doctors per 10k,2016,8.25
+VNM,Viet Nam,HWF_0001,Medical doctors per 10k,2017,7.81
+VNM,Viet Nam,HWF_0001,Medical doctors per 10k,2018,8.81
+VNM,Viet Nam,HWF_0001,Medical doctors per 10k,2019,9.9
+VNM,Viet Nam,HWF_0001,Medical doctors per 10k,2020,8.56
+VNM,Viet Nam,HWF_0001,Medical doctors per 10k,2021,11.07
+VNM,Viet Nam,HWF_0006,Nurses/midwives per 10k,2001,7.59
+VNM,Viet Nam,HWF_0006,Nurses/midwives per 10k,2002,7.85
+VNM,Viet Nam,HWF_0006,Nurses/midwives per 10k,2005,8.59
+VNM,Viet Nam,HWF_0006,Nurses/midwives per 10k,2006,9.06
+VNM,Viet Nam,HWF_0006,Nurses/midwives per 10k,2007,9.7
+VNM,Viet Nam,HWF_0006,Nurses/midwives per 10k,2008,10.34
+VNM,Viet Nam,HWF_0006,Nurses/midwives per 10k,2009,11.16
+VNM,Viet Nam,HWF_0006,Nurses/midwives per 10k,2010,12.4
+VNM,Viet Nam,HWF_0006,Nurses/midwives per 10k,2012,14.57
+VNM,Viet Nam,HWF_0006,Nurses/midwives per 10k,2014,14.3
+VNM,Viet Nam,HWF_0006,Nurses/midwives per 10k,2015,14.21
+VNM,Viet Nam,HWF_0006,Nurses/midwives per 10k,2016,14.41
+VNM,Viet Nam,HWF_0006,Nurses/midwives per 10k,2017,14.38
+VNM,Viet Nam,IHRSPAR2_C01,SPAR C01 policy/legal,2021,60.0
+VNM,Viet Nam,IHRSPAR2_C01,SPAR C01 policy/legal,2022,50.0
+VNM,Viet Nam,IHRSPAR2_C01,SPAR C01 policy/legal,2023,50.0
+VNM,Viet Nam,IHRSPAR2_C03,SPAR C03 financing,2021,60.0
+VNM,Viet Nam,IHRSPAR2_C03,SPAR C03 financing,2022,60.0
+VNM,Viet Nam,IHRSPAR2_C03,SPAR C03 financing,2023,40.0
+VNM,Viet Nam,IHRSPAR2_C04,SPAR C04 laboratory,2021,64.0
+VNM,Viet Nam,IHRSPAR2_C04,SPAR C04 laboratory,2022,60.0
+VNM,Viet Nam,IHRSPAR2_C04,SPAR C04 laboratory,2023,60.0
+VNM,Viet Nam,IHRSPAR2_C05,SPAR C05 surveillance,2021,80.0
+VNM,Viet Nam,IHRSPAR2_C05,SPAR C05 surveillance,2022,60.0
+VNM,Viet Nam,IHRSPAR2_C05,SPAR C05 surveillance,2023,60.0
+VNM,Viet Nam,IHRSPAR2_C06,SPAR C06 human resources,2021,70.0
+VNM,Viet Nam,IHRSPAR2_C06,SPAR C06 human resources,2022,60.0
+VNM,Viet Nam,IHRSPAR2_C06,SPAR C06 human resources,2023,50.0
+VNM,Viet Nam,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2021,60.0
+VNM,Viet Nam,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2022,47.0
+VNM,Viet Nam,IHRSPAR2_C07,SPAR C07 health emergency mgmt,2023,40.0
+VNM,Viet Nam,IHRSPAR2_C08,SPAR C08 health services provision,2021,73.0
+VNM,Viet Nam,IHRSPAR2_C08,SPAR C08 health services provision,2022,53.0
+VNM,Viet Nam,IHRSPAR2_C08,SPAR C08 health services provision,2023,53.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2000,52.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2001,53.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2002,54.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2003,56.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2004,57.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2005,58.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2006,60.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2007,61.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2008,63.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2009,64.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2010,65.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2011,65.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2012,66.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2013,68.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2014,70.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2015,71.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2016,71.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2017,72.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2018,69.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2019,70.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2020,71.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2021,71.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2022,70.0
+VNM,Viet Nam,UHC_INDEX_REPORTED,UHC service coverage index,2023,71.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2000,96.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2001,96.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2002,75.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2003,99.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2004,96.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2005,95.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2006,94.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2007,92.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2008,93.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2009,96.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2010,93.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2011,95.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2012,97.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2013,59.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2014,95.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2015,97.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2016,96.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2017,94.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2018,75.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2019,89.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2020,94.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2021,83.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2022,91.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2023,65.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2024,97.0
+VNM,Viet Nam,WHS4_100,DTP3 coverage %,2025,97.0
+VNM,Viet Nam,WHS6_102,Hospital beds per 10k,2000,14.347924546
+VNM,Viet Nam,WHS6_102,Hospital beds per 10k,2001,14.428745385
+VNM,Viet Nam,WHS6_102,Hospital beds per 10k,2002,14.522885077
+VNM,Viet Nam,WHS6_102,Hospital beds per 10k,2003,14.74288966
+VNM,Viet Nam,WHS6_102,Hospital beds per 10k,2004,15.471941901
+VNM,Viet Nam,WHS6_102,Hospital beds per 10k,2005,15.663910318
+VNM,Viet Nam,WHS6_102,Hospital beds per 10k,2006,16.00138234
+VNM,Viet Nam,WHS6_102,Hospital beds per 10k,2007,17.074881479
+VNM,Viet Nam,WHS6_102,Hospital beds per 10k,2008,17.823492072
+VNM,Viet Nam,WHS6_102,Hospital beds per 10k,2009,18.960786073
+VNM,Viet Nam,WHS6_102,Hospital beds per 10k,2010,20.194122359
+VNM,Viet Nam,WHS6_102,Hospital beds per 10k,2011,22.097176825
+VNM,Viet Nam,WHS6_102,Hospital beds per 10k,2012,22.720834417
+VNM,Viet Nam,WHS6_102,Hospital beds per 10k,2013,22.995568055
+VNM,Viet Nam,WHS6_102,Hospital beds per 10k,2014,24.217496714
+VNM,Viet Nam,WHS6_102,Hospital beds per 10k,2015,25.090587753
+VNM,Viet Nam,WHS6_102,Hospital beds per 10k,2016,24.71720354
+VNM,Viet Nam,WHS6_102,Hospital beds per 10k,2017,25.173839304
