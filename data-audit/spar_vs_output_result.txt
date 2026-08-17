@@ -7,16 +7,29 @@ Sri Lanka          100           2        2         4
 Thailand           100           1        2         3
 Philippines         70           1        2         3
 Indonesia           90           1        2         3
-Viet Nam            60           0        2         2 *
-Cambodia            90           1        1         2 *
+Viet Nam            60           0        2         2
+Cambodia            90           1        1         2
 India              100           1        0         1
-  * provisional, pending confirmation
 
-Spearman rho, SPAR C05 vs observed output (all ten, n=10): -0.05
+Rank correlation is NOT a result. It is reported only to show that its
+sign is an artefact of the output coding, at n=10.
 
-Spearman rho, SPAR C05 vs observed output (excluding provisional, n=8): -0.32
+output coding   set         n     rho
+-------------------------------------
+spatial+freq    all ten    10   -0.05
+spatial+freq    n=8         8   -0.32
+spatial only    all ten    10   +0.31
+spatial only    n=8         8   +0.00
+freq only       all ten    10   -0.42
+freq only       n=8         8   -0.59
+2*spatial+freq  all ten    10   +0.03
+2*spatial+freq  n=8         8   -0.32
+spatial+2*freq  all ten    10   -0.08
+spatial+2*freq  n=8         8   -0.32
 
-Largest disagreements (SPAR rank minus observed rank):
+range across 10 codings: -0.59 to +0.31
+
+Largest disagreements, composite coding (SPAR rank minus observed rank):
   India         SPAR rank  4, observed rank 10   (delta +6)
   Bangladesh    SPAR rank  7, observed rank  1   (delta -6)
   Malaysia      SPAR rank  8, observed rank  2   (delta -6)

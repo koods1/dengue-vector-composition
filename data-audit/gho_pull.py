@@ -1,6 +1,13 @@
-"""Pull D-ACI quantitative indicators for the ten study countries from the
-WHO Global Health Observatory OData API. Writes a tidy CSV plus a
-latest-value matrix. Reproducible: no auth required."""
+"""Pull health-system indicators for the ten study countries from the WHO
+Global Health Observatory OData API. Writes a tidy CSV plus a latest-value
+matrix. Reproducible: no auth required.
+
+Only one of these reaches the paper: SPAR C05 (surveillance), used in
+spar_vs_output.py as a comparator against published surveillance output. The
+rest were pulled during an earlier design that built a composite capacity
+index; that analysis was dropped and none of it is reported. They are left
+in because the pull is one call per indicator and re-running it is the only
+way to refresh the one that is used."""
 import json, sys, time, urllib.request, csv, os
 
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
@@ -66,13 +73,13 @@ for code, label in IND.items():
     print(f'{code:26s} {label:36s} n_countries={len(byc)}')
     time.sleep(0.2)
 
-with open(f'{OUT}/daci_gho_tidy.csv', 'w', newline='', encoding='utf8') as fh:
+with open(f'{OUT}/gho_tidy.csv', 'w', newline='', encoding='utf8') as fh:
     w = csv.DictWriter(fh, fieldnames=['iso3', 'country', 'code', 'indicator', 'year', 'value'])
     w.writeheader()
     w.writerows(sorted(rows, key=lambda r: (r['iso3'], r['code'], r['year'])))
 
 labels = list(IND.values())
-with open(f'{OUT}/daci_gho_latest.csv', 'w', newline='', encoding='utf8') as fh:
+with open(f'{OUT}/gho_latest.csv', 'w', newline='', encoding='utf8') as fh:
     w = csv.writer(fh)
     w.writerow(['country', 'iso3'] + [f'{l} [value]' for l in labels] + [f'{l} [year]' for l in labels])
     for c in COUNTRIES:
@@ -98,4 +105,4 @@ for c in COUNTRIES:
         y, v = latest[c].get(l, (None, None))
         line += f'{(str(round(v,1)) + " (" + str(y) + ")") if v is not None else "--":>17}'
     print(line)
-print(f'\nwrote {OUT}/daci_gho_tidy.csv and daci_gho_latest.csv ({len(rows)} rows)')
+print(f'\nwrote {OUT}/gho_tidy.csv and gho_latest.csv ({len(rows)} rows)')
