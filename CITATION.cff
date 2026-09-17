@@ -7,7 +7,15 @@ message: >-
   and this archived record. Cite the concept DOI, which always resolves to
   the newest version.
 type: software
+# The paper's five authors, listed identically here, under preferred-citation
+# below, in LICENSE and in the Zenodo creators table. Keep them in step: if one
+# list changes, change all four.
 authors:
+  - given-names: Bros
+    family-names: Doeurk
+    affiliation: >-
+      Medical and Veterinary Entomology Unit, Institut Pasteur du Cambodge
+    orcid: 'https://orcid.org/0000-0003-3589-1985'
   - given-names: Archita
     family-names: Ghosh
     affiliation: >-
@@ -43,7 +51,12 @@ preferred-citation:
   title: >-
     Shifting dengue vector composition under warming in South and Southeast
     Asia: a change routine surveillance cannot detect
+  # The paper's author list, which must match the manuscript title page
+  # exactly. BD and AG are joint first authors; CFF has no way to express
+  # equal contribution, so the order alone carries it here.
   authors:
+    - given-names: Bros
+      family-names: Doeurk
     - given-names: Archita
       family-names: Ghosh
     - given-names: Mansoor

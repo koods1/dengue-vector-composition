@@ -57,18 +57,28 @@ warming in South and Southeast Asia: a change routine surveillance cannot
 detect"
 ```
 
-**Creators** — in manuscript order (first author, then alphabetical). Use the
+**Creators** — all five authors of the paper, in manuscript order. Use the
 ROR-backed affiliation so it links properly.
 
 | Name | ORCID | Affiliation |
 |---|---|---|
+| Doeurk, Bros | `0000-0003-3589-1985` | Institut Pasteur du Cambodge (ROR `03ht2dx40`) |
 | Ghosh, Archita | `0009-0002-1303-4755` | Northeastern University (ROR `04t5xt781`) |
 | Amiji, Mansoor M. | `0000-0001-6170-881X` | Northeastern University (ROR `04t5xt781`) |
 | Ganguly, Auroop R. | `0000-0002-4292-4856` | Northeastern University (ROR `04t5xt781`) |
 | Sundaram, Ravi | `0000-0001-5657-4298` | Northeastern University (ROR `04t5xt781`) |
 
-All four ORCIDs were checksum-validated (ISO 7064 MOD 11-2). AG's is a
-`0009-` prefix, which is simply a recently issued block, not an error.
+All five ORCIDs were checksum-validated (ISO 7064 MOD 11-2). AG's is a
+`0009-` prefix, which is simply a recently issued block, not an error. The
+Institut Pasteur du Cambodge ROR was taken from the ROR API rather than
+recalled; the exact-name record is `03ht2dx40`, and note that Institut Pasteur
+du Laos and Institut Pasteur du Maroc are separate records that a loose search
+returns alongside it.
+
+**Creators, `CITATION.cff` and `LICENSE` all name the same five.** Keep them
+that way: if the list is ever revised, revise all four places at once — this
+table, `CITATION.cff`'s `authors`, `CITATION.cff`'s `preferred-citation`, and
+`LICENSE` — or the record will contradict itself.
 
 **Description** (Zenodo accepts HTML)
 
@@ -153,8 +163,10 @@ Three questions that were open are now closed, and should not be reopened:
 - **Third-party rights.** The Kaye et al. MIT notice is reproduced verbatim
   from commit `1af467e`, fetched through the GitHub API rather than
   transcribed.
-- **Copyright holder.** Vests in the authors; `LICENSE` naming the four of
-  them is correct. Checked against Northeastern policy, 15 August 2026.
+- **Copyright holder.** Vests in the authors; `LICENSE` names all five. The
+  Northeastern policy check of 15 August 2026 covers the Northeastern authors;
+  the fifth is named by the authors' own agreement. No institutional line is
+  required for either institution.
 
 ## After publishing
 

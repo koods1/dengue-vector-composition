@@ -82,6 +82,8 @@ published literature and **no part of it is reproduced** in this repository.
 
 ## Copyright holder
 
-Settled: copyright vests in the authors, and the `LICENSE` file names the
-four of them. Checked against Northeastern University policy, 15 August 2026.
-No institutional copyright line is required and none should be added.
+Settled: copyright vests in the authors, and the `LICENSE` file names all
+five. The Northeastern University policy check of 15 August 2026 covers the
+Northeastern authors; the fifth is named by the authors' own agreement. No
+institutional copyright line is required for either institution and none
+should be added.
