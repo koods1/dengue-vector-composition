@@ -84,8 +84,10 @@ ax.contour(0.5 * (xe[1:] + xe[:-1]), 0.5 * (ye[1:] + ye[:-1]), H.T,
 ax.set_xlim(12, 38); ax.set_ylim(0, 26)
 ax.set_xlabel('Monthly mean temperature (°C)')
 ax.set_ylabel('Mean daily rainfall (mm/day)')
-ax.set_title('Conditions permitting $\\it{Aedes\\ aegypti}$ persistence',
-             color=INK, fontsize=9.5, pad=8, loc='left')
+# No title in the artwork: the journal requires the title to appear at the
+# start of the figure legend instead, so it lives in the LaTeX caption.
+# Instructions for Authors, April 2026, Figures: "Do not use titles in the
+# graph or artwork."
 handles = [Patch(facecolor=COL[k], edgecolor='none', label=LAB[k]) for k in LEGEND_ORDER]
 handles.append(Line2D([0], [0], color=MUTED, lw=0.7, label='study-region climate'))
 ax.legend(handles=handles, loc='upper center', bbox_to_anchor=(0.5, -0.16),
@@ -94,7 +96,7 @@ ax.legend(handles=handles, loc='upper center', bbox_to_anchor=(0.5, -0.16),
 for s in ('top', 'right'):
     ax.spines[s].set_visible(False)
 fig.tight_layout(rect=[0, 0.03, 1, 1])
-fig.savefig('fig1_niche.pdf'); fig.savefig('fig1_niche.png', dpi=200)
+fig.savefig('fig1_niche.pdf'); fig.savefig('fig1_niche.png', dpi=300)
 print('wrote fig1_niche.pdf / .png')
 
 # ===================== FIGURE 2 =====================
