@@ -9,7 +9,9 @@ Analysis code and derived data for:
 
 Bros Doeurk and Archita Ghosh contributed equally and are joint first authors.
 
-**Archived release and DOI:** _to be added — see `CITATION.cff`._
+**Archived release:** [doi:10.5281/zenodo.22834784](https://doi.org/10.5281/zenodo.22834784)
+— the concept DOI, which always resolves to the newest version. Cite this
+one rather than a version DOI.
 
 Every input is publicly available and every result in the paper is
 reproducible from them. Nothing proprietary is used, and nothing proprietary

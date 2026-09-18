@@ -43,9 +43,11 @@ authors:
     orcid: 'https://orcid.org/0000-0001-5657-4298'
 license: MIT
 repository-code: 'https://github.com/koods1/dengue-vector-composition'
-# TODO: after publishing the Zenodo record, set this to the CONCEPT DOI
-#       (labelled "Cite all versions"), not the version DOI.
-# doi: 10.5281/zenodo.XXXXXXX
+# The CONCEPT DOI, labelled "Cite all versions" on the record page. It always
+# resolves to the newest version, so it does not go stale when a new version
+# is cut. The v1.0.0 version DOI is 10.5281/zenodo.22834785 -- do not put that
+# one here, and do not print it in the paper.
+doi: 10.5281/zenodo.22834784
 preferred-citation:
   type: article
   title: >-
