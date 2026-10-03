@@ -4,8 +4,7 @@ Analysis code and derived data for:
 
 > Doeurk B, Ghosh A, Amiji MM, Ganguly AR, Sundaram R. *Shifting dengue
 > vector composition under warming in South and Southeast Asia: a change
-> routine surveillance cannot detect.* Submitted to The Lancet Regional Health
-> – Southeast Asia, 2026.
+> routine surveillance cannot detect.* Manuscript in submission, 2026.
 
 Bros Doeurk and Archita Ghosh contributed equally and are joint first authors.
 

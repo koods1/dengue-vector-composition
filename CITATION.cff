@@ -48,8 +48,10 @@ repository-code: 'https://github.com/koods1/dengue-vector-composition'
 # is cut. The v1.0.0 version DOI is 10.5281/zenodo.22834785 -- do not put that
 # one here, and do not print it in the paper.
 doi: 10.5281/zenodo.22834784
+# No journal is named until the paper is accepted: a journal here makes
+# GitHub's "Cite this repository" present the manuscript as published there.
 preferred-citation:
-  type: article
+  type: unpublished
   title: >-
     Shifting dengue vector composition under warming in South and Southeast
     Asia: a change routine surveillance cannot detect
@@ -69,9 +71,9 @@ preferred-citation:
       family-names: Ganguly
     - given-names: Ravi
       family-names: Sundaram
-  journal: The Lancet Regional Health – Southeast Asia
+  notes: Manuscript in submission.
   year: 2026
-  # doi:      # TODO on acceptance
+  # On acceptance: type article, journal, doi.
 keywords:
   - dengue
   - Aedes aegypti
