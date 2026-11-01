@@ -1,14 +1,25 @@
 # Zenodo deposit — metadata and procedure
 
-The manuscript's Data sharing statement promises the analysis code and the
-derived monthly climate reductions at a registered DOI. This file records
+The manuscript's Data Availability Statement promises the analysis code and
+the derived monthly climate reductions at a registered DOI. This file records
 exactly what to enter, so the deposit can be reproduced or a new version cut
 without re-deriving any of it.
 
+## Versions
+
+| Version | Date | What changed |
+|---|---|---|
+| v1.0.0 | 18 September 2026 | First release |
+| v1.0.1 | 1 November 2026 | Metadata only. `README.md` and `CITATION.cff` no longer name a journal (v1.0.0's said the paper had been submitted to *The Lancet Regional Health – Southeast Asia*); this file gained this table and the v1.0.1 commands. Code, result files and the three `.npz` reductions are unchanged |
+
+A new version keeps the three `.npz` files and replaces only the code
+archive. The concept DOI moves to the newest version by itself, so the DOI
+printed in the manuscript never changes.
+
 **Upload by hand. Do not enable Zenodo's GitHub webhook integration.** The
 three `.npz` reductions (149 MB) are not in git, so a webhook archive would
-deposit code without data — which is not what the Data sharing statement
-promises. One record holding both is what is wanted. The same trap defeats
+deposit code without data — which is not what the Data Availability
+Statement promises. One record holding both is what is wanted. The same trap defeats
 git-lfs: Zenodo's archiver does not fetch LFS objects either, so it would
 deposit pointer stubs.
 
@@ -18,21 +29,22 @@ deposit pointer stubs.
 
 | File | Source | Size |
 |---|---|---|
-| `dengue-vector-composition-v1.0.0.zip` | `git archive` of the tagged release | ~2 MB |
+| `dengue-vector-composition-v1.0.1.zip` | `git archive` of the tagged release | ~2 MB |
 | `ensemble_monthly.npz` | `C:\dengue-data\` | 63 MB |
 | `ensemble_monthly_mid.npz` | `C:\dengue-data\` | 47 MB |
 | `wlen_monthly.npz` | `C:\dengue-data\` | 39 MB |
 
 Four files: the code archive and the three derived reductions. That is what
-the Data sharing statement promises and all it promises.
+the Data Availability Statement promises and all it promises.
 
-Build the code archive from the tag so it matches the release exactly:
+Build the code archive from the tag so it matches the release exactly. For
+v1.0.1 (v1.0.0 was the same with the version changed):
 
 ```bash
-git tag -a v1.0.0 -m "Release accompanying the manuscript"
-git push origin v1.0.0
-git archive --format=zip --prefix=dengue-vector-composition-v1.0.0/ \
-    -o dengue-vector-composition-v1.0.0.zip v1.0.0
+git tag -a v1.0.1 -m "Metadata-only release: no journal named"
+git push origin main v1.0.1
+git archive --format=zip --prefix=dengue-vector-composition-v1.0.1/ \
+    -o dengue-vector-composition-v1.0.1.zip v1.0.1
 ```
 
 Well inside Zenodo's 50 GB per-record limit.
@@ -47,7 +59,7 @@ Well inside Zenodo's 50 GB per-record limit.
 > it. "Software" also gives the right citation formatting and the software
 > metadata fields. If a reviewer objects that the data should be findable as
 > data, the alternative is two linked records — but one record matches what
-> the Data sharing statement promises, so prefer this.
+> the Data Availability Statement promises, so prefer this.
 
 **Title**
 
@@ -112,7 +124,7 @@ the fetch scripts retrieve them, and they are itemised with their terms in
 Add both if the Licences field accepts more than one; if it takes only one,
 set MIT and state the data licence in the description.
 
-**Version:** `v1.0.0`
+**Version:** `v1.0.1` (was `v1.0.0`; see Versions above)
 
 **Language:** English
 
@@ -124,11 +136,12 @@ CMIP6; Southeast Asia; South Asia
 
 1. US National Science Foundation, award **2146502** —
    *D-ISN/Collaborative Research: Financial and Network Disruptions in
-   Counterfeit and Illegal Medicines Trade* (to MMA and RS; also supported
+   Counterfeit and Illegal Medicines Trade* (supporting MMA and RS, and
    AG). Zenodo's grants field is backed by OpenAIRE, so search the award
    number rather than typing the funder free-text.
 2. **AI for Climate and Sustainability (AI4CaS) Research Grant**, Office of
-   the Provost, **Northeastern University** (to ARG). An internal
+   the Provost, **Northeastern University** (supporting ARG and AG; AG's
+   support from both grants was settled by RS on 1 November 2026). An internal
    institutional award, so OpenAIRE will almost certainly not have it — enter
    it as free-text under the funder Northeastern University (ROR
    `04t5xt781`), and do not spend time hunting for a grant record.
