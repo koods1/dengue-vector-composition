@@ -11,6 +11,7 @@ without re-deriving any of it.
 |---|---|---|
 | v1.0.0 | 18 September 2026 | First release |
 | v1.0.1 | 1 November 2026 | Metadata only. `README.md` and `CITATION.cff` no longer name a journal (v1.0.0's said the paper had been submitted to *The Lancet Regional Health – Southeast Asia*); this file gained this table and the v1.0.1 commands. Code, result files and the three `.npz` reductions are unchanged |
+| v1.0.2 | 2 November 2026 | Documentation, and one missing script. `README.md` said to set `DENGUE_DATA`, which no script reads, and that each script writes its result beside itself; in fact every script reads and writes the current working directory. The README now says so, lists every input with its source, and records an end-to-end check from a clean copy: eleven scripts reproduce their committed outputs exactly. Added `data-audit/reduction/fetch_ensemble.py`, which downloaded the 640 files `reduce.py` reads and was missing from v1.0.0 and v1.0.1; it is the authors' working copy of 14 August 2026, unchanged. `THIRD-PARTY-NOTICES.md` and `.gitignore` adjusted to match. No analysis script, result file or `.npz` reduction changed |
 
 A new version keeps the three `.npz` files and replaces only the code
 archive. The concept DOI moves to the newest version by itself, so the DOI
@@ -29,22 +30,23 @@ deposit pointer stubs.
 
 | File | Source | Size |
 |---|---|---|
-| `dengue-vector-composition-v1.0.1.zip` | `git archive` of the tagged release | ~2 MB |
-| `ensemble_monthly.npz` | `C:\dengue-data\` | 63 MB |
-| `ensemble_monthly_mid.npz` | `C:\dengue-data\` | 47 MB |
-| `wlen_monthly.npz` | `C:\dengue-data\` | 39 MB |
+| `dengue-vector-composition-v1.0.2.zip` | `git archive` of the tagged release | ~2 MB |
+| `ensemble_monthly.npz` | `../dengue-data/` (beside this repository's clone) | 63 MB |
+| `ensemble_monthly_mid.npz` | `../dengue-data/` | 47 MB |
+| `wlen_monthly.npz` | `../dengue-data/` | 39 MB |
 
 Four files: the code archive and the three derived reductions. That is what
 the Data Availability Statement promises and all it promises.
 
 Build the code archive from the tag so it matches the release exactly. For
-v1.0.1 (v1.0.0 was the same with the version changed):
+v1.0.2 (earlier versions were the same with the version and message
+changed):
 
 ```bash
-git tag -a v1.0.1 -m "Metadata-only release: no journal named"
-git push origin main v1.0.1
-git archive --format=zip --prefix=dengue-vector-composition-v1.0.1/ \
-    -o dengue-vector-composition-v1.0.1.zip v1.0.1
+git tag -a v1.0.2 -m "Documentation: working-directory instructions; add fetch_ensemble.py"
+git push origin main v1.0.2
+git archive --format=zip --prefix=dengue-vector-composition-v1.0.2/ \
+    -o ../dengue-data/dengue-vector-composition-v1.0.2.zip v1.0.2
 ```
 
 Well inside Zenodo's 50 GB per-record limit.
@@ -113,8 +115,8 @@ they produced, so a reported number can be checked against its output
 without re-running anything, plus the derived monthly climate reductions
 (<code>ensemble_monthly.npz</code>, <code>ensemble_monthly_mid.npz</code>,
 <code>wlen_monthly.npz</code>). Third-party inputs are not redistributed;
-the fetch scripts retrieve them, and they are itemised with their terms in
-<code>THIRD-PARTY-NOTICES.md</code>.</p>
+<code>README.md</code> lists each with its source and explains how to run
+the scripts, and <code>THIRD-PARTY-NOTICES.md</code> gives their terms.</p>
 
 <p>Development repository:
 <a href="https://github.com/koods1/dengue-vector-composition">github.com/koods1/dengue-vector-composition</a></p>
@@ -124,7 +126,7 @@ the fetch scripts retrieve them, and they are itemised with their terms in
 Add both if the Licences field accepts more than one; if it takes only one,
 set MIT and state the data licence in the description.
 
-**Version:** `v1.0.1` (was `v1.0.0`; see Versions above)
+**Version:** `v1.0.2` (was `v1.0.1`; see Versions above)
 
 **Language:** English
 

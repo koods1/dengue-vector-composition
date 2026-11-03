@@ -64,8 +64,8 @@ Full citations are in the manuscript.
 
 ## Data sources
 
-Not redistributed here; retrieved by the fetch scripts. Each carries its own
-terms, all permitting research use:
+Not redistributed here; `README.md` lists where each comes from. Each
+carries its own terms, all permitting research use:
 
 | Source | Terms |
 |---|---|

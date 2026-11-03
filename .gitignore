@@ -1,10 +1,13 @@
 # Derived climate reductions. ~149 MB together; they exceed what git should
-# carry and are published as files on the archived record instead. Set
-# DENGUE_DATA to the directory holding them. See README.md.
+# carry and are published as files on the archived record instead. They go
+# in the working directory described in README.md.
 ensemble_monthly.npz
 ensemble_monthly_mid.npz
 wlen_monthly.npz
 reduce_mid.ckpt
+
+# The working directory README.md suggests for a re-run.
+work/
 
 # Third-party inputs, fetched not redistributed. Named individually rather
 # than globbed: a blanket *.npz would also exclude
